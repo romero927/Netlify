@@ -141,7 +141,7 @@ class App extends Component {
                           </td>
                           <td>
                             This site was built using the Create-React-App and React-Bootstrap libraries.<br />
-                            It is hosted on Digital Ocean using PM2 Serve and NGINX Reverse Proxy.<br />
+                            It is hosted on Netlify.<br />
                           </td>
                         </tr>
                       </tbody>
