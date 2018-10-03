@@ -10,7 +10,7 @@ class App extends Component {
         <Navbar fixedTop bsClass="navbar" collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <a href="#">kgromero.us</a>
+              <a href="#">kgromero.com</a>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
