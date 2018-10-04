@@ -27,6 +27,13 @@ tbody > tr{
   width: 50%;
 }
 
+@media only screen and (max-width: 720px) {
+  .FiftyPercent > tr > td{
+    float:left!important;
+    width: 100% !important;
+  }
+}
+
 .App-body{
   text-align: left;
 }
@@ -56,3 +63,6 @@ tbody > tr{
   border-bottom-style: solid;
   opacity: .97;
 }
+ .offset{
+  padding-top: 40px; margin-top: -40px;
+ }

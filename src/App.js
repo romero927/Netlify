@@ -69,10 +69,10 @@ class App extends Component {
               <Panel>
                 <h1>Kyle Romero</h1>
                 <p>Software Development Manager with 10 years experience in IT. Currently living in Houston, TX.</p>
+                <a name="about"> </a>
               </Panel>
               <Panel>
                 <div className="App-body">
-                  <a name="about"> </a>
                   <Panel collapsible defaultExpanded header="About Me">
                     <Table bordered condensed>
                       <thead>
@@ -115,10 +115,11 @@ class App extends Component {
                           <td>
                             <ul>
                               <li>My wife and I love to travel. We have travelled extensively throughout the U.S., as well as to several other countries.</li>
+                              <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
+                                  Some of my favorite have been implemented using a Raspberry Pi, such as a Pi-hole DNS blocker and RTL-SDR.</li>
                               <li>I am very passionate about nature, and love hiking / camping / backpacking.</li>
                               <li>I also love Reading, Music, Movies, and Broadway Musicals (thanks to my wife).</li>
-                              <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
-                            Some of my favorite have been implemented using a Raspberry Pi, such as a Pi-hole DNS blocker.</li>
+                              
                             </ul>
                           </td>
                         </tr>
@@ -146,8 +147,8 @@ class App extends Component {
                         </tr>
                       </tbody>
                     </Table>
+                    <a name="tech"> </a>
                   </Panel>
-                  <a name="tech"> </a>
                   <Panel collapsible defaultExpanded header="Technical Skills">
                     <Table bordered condensed>
                       <thead>
@@ -332,13 +333,13 @@ class App extends Component {
                             <strong>Cloud</strong>
                           </td>
                           <td>
-                            Azure, Digital Ocean
+                            Azure, Digital Ocean 
                           </td>
                         </tr>
                       </tbody>
                     </Table>
+                    <a name="work"> </a>
                   </Panel>
-                  <a name="work"> </a>
                   <Panel collapsible defaultExpanded header="Work Experience">
                   <Table bordered condensed>
                       <thead>
@@ -562,8 +563,8 @@ class App extends Component {
                         </tr>
                       </tbody>
                     </Table>
+                    <a name="education"> </a>
                   </Panel>
-                  <a name="education"> </a>
                   <Panel collapsible defaultExpanded header="Education">
                     <Table bordered condensed>
                       <thead>
