@@ -28,9 +28,12 @@ tbody > tr{
 }
 
 @media only screen and (max-width: 720px) {
-  .FiftyPercent > tr > td{
+   tr > td{
     float:left!important;
     width: 100% !important;
+  }
+  td > strong{
+    text-decoration: underline;
   }
 }
 

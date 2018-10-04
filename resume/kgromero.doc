@@ -2114,7 +2114,41 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Develop modern web application using Angular, HTML5, and CSS3; hosted on IIS</w:t>
+								<w:t>Manage DevOps, CICD, and PM processes using Azure DevOps</w:t>
+							</w:r>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Architect and explore new technology solutions</w:t>
+							</w:r>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Develop modern web application using Angular/React, HTML5, and CSS3; hosted on IIS</w:t>
 							</w:r>
 						</w:p>
 						
@@ -2132,23 +2166,6 @@
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
 								<w:t>Develop RESTful API using ASP.NET MVC WebAPI</w:t>
-							</w:r>
-						</w:p>
-						
-						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
-							<w:pPr>
-								<w:pStyle w:val="ListParagraph"/>
-								<w:listPr>
-									<w:ilvl w:val="0"/>
-									<w:ilfo w:val="8"/>
-									<wx:t wx:val="•"/>
-									<wx:font wx:val="Calibri"/>
-								</w:listPr>
-								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
-								<w:ind w:left="337" w:hanging="337"/>
-							</w:pPr>
-							<w:r wsp:rsidRPr="00235936">
-								<w:t>Manage DevOps, CICD, and PM processes using VSTS</w:t>
 							</w:r>
 						</w:p>
 						
@@ -2183,23 +2200,6 @@
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
 								<w:t>Azure Administration</w:t>
-							</w:r>
-						</w:p>
-						
-						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
-							<w:pPr>
-								<w:pStyle w:val="ListParagraph"/>
-								<w:listPr>
-									<w:ilvl w:val="0"/>
-									<w:ilfo w:val="8"/>
-									<wx:t wx:val="•"/>
-									<wx:font wx:val="Calibri"/>
-								</w:listPr>
-								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
-								<w:ind w:left="337" w:hanging="337"/>
-							</w:pPr>
-							<w:r wsp:rsidRPr="00235936">
-								<w:t>Architect and explore new technology solutions</w:t>
 							</w:r>
 						</w:p>
 						
@@ -3216,7 +3216,7 @@
 								<w:ind w:left="162"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-                                <w:t>GIT (Bitbucket, GitKraken / Bash), VSTS, SVN (TortoiseSVN), Visual Studio 2015, Visual Studio Code, SSMS, TeamCity, JIRA,  Trello, VSTS, Windows 10/8.1/7, Linux (Ubuntu), MacOS Sierra, IIS, Node + NPM / YARN + Express + PM2, NGINX Reverse Proxy, Docker (Novice), Azure, Digital Ocean, LucidCharts</w:t>
+                                <w:t>GIT (Bitbucket, GitKraken / Bash), Azure DevOps, SVN (TortoiseSVN), Visual Studio 2015, Visual Studio Code, SSMS, TeamCity, JIRA,  Trello, Azure DevOps, Windows 10/8.1/7, Linux (Ubuntu), MacOS Sierra, IIS, Node + NPM / YARN + Express + PM2, NGINX Reverse Proxy, Docker (Novice), Azure, Digital Ocean, LucidCharts</w:t>
 							</w:r>
 						</w:p>
 						

@@ -123,19 +123,6 @@ class App extends Component {
                             </ul>
                           </td>
                         </tr>
-                        {/* <tr>
-                          <td>
-                            <strong>Continued Learning</strong>
-                          </td>
-                          <td>
-                            Currently, I am doing my best to keep up with the quickly changing development landscape.<br />
-                            <ul>
-                              <li>I am very interested in Python, .NET Core, GOLang, Rust, Clojure, and Vue.js.</li>
-                              <li>I try to keep up-to-date using aggregators such as Hacker News and Programming Sub-Reddits.</li>
-                              <li>I use Pluralsight to keep refreshed on various topics and attempt small side projects to learn new concepts.</li>
-                            </ul>
-                          </td>
-                        </tr> */}
                         <tr>
                           <td>
                             <strong>Technical Note</strong>
@@ -175,8 +162,7 @@ class App extends Component {
                           </td>
                           <td>
                             Typescript,
-                            ES5,
-                            ES2015
+                            ES6
                           </td>
                         </tr>
                         <tr>
@@ -269,7 +255,7 @@ class App extends Component {
                             <strong>Source Control</strong>
                           </td>
                           <td>
-                            GIT (Bitbucket, GitKraken / Bash), VSTS, SVN (TortoiseSVN)
+                            GIT (Bitbucket, GitKraken / Bash), Azure DevOps, SVN (TortoiseSVN)
                           </td>
                         </tr>
                         <tr>
@@ -282,10 +268,10 @@ class App extends Component {
                         </tr>
                         <tr>
                           <td>
-                            <strong>Deployment</strong>
+                            <strong>CICD</strong>
                           </td>
                           <td>
-                            TeamCity
+                             Azure DevOps, TeamCity
                           </td>
                         </tr>
                         <tr>
@@ -293,7 +279,7 @@ class App extends Component {
                             <strong>PM (Agile Scrum)</strong>
                           </td>
                           <td>
-                            JIRA, Trello, VSTS
+                             Azure DevOps, JIRA, Trello 
                           </td>
                         </tr>
                         <tr>
@@ -373,12 +359,12 @@ class App extends Component {
                           <td>
                             <ul>
                               <li>Managing a team of internal and outsourced developers</li>
-                              <li>Develop modern web application using Angular, HTML5, and CSS3; hosted on IIS</li>
+                              <li>Architect and explore new technology solutions</li>
+                              <li>Develop modern web application using Angular/React, HTML5, and CSS3; hosted on IIS</li>
                               <li>Develop RESTful api using ASP.NET MVC WebAPI</li>
                               <li>Manage DevOps, CICD, and PM processes using VSTS</li>
                               <li>Server administration (Windows Servers)</li>
                               <li>Azure Administration</li>
-                              <li>Architect and explore new technology solutions</li>
                             </ul>
                           </td>
                         </tr>
@@ -461,7 +447,7 @@ class App extends Component {
                             <strong>Description</strong>
                           </td>
                           <td>
-                            <strong>Technical Lead</strong><br />
+                            <i><b>Technical Lead</b></i><br />
                             <ul>
                               <li>Led development team working on enterprise level product quality / escalation management tool.</li>
                               <li>Helped manage both onshore and offshore, full time and contingent developers.</li>
@@ -475,7 +461,7 @@ class App extends Component {
                               <li>During the year 2015, led team to successfully complete clone of our systems to be used on both sides of HP after the company split into two.</li>
                             </ul>
                             <hr />
-                            <strong>Mid-level Developer</strong><br />
+                            <i><b>Mid-Level Developer</b></i><br />
                             <ul>
                               <li>Worked on ASP.NET Web applications incorporating a 3-Tier approach.</li>
                               <li>Did work on all three tiers (MS SQL Database, VB.NET Middle tier object libraries, and ASP.NET + jQueryUI frontend).</li>
