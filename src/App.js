@@ -622,7 +622,7 @@ class App extends Component {
             params={{
               "particles": {
                 "number": {
-                  "value": 25,
+                  "value": 30,
                   "density": {
                     "enable": true,
                     "value_area": 800
@@ -646,7 +646,7 @@ class App extends Component {
                   "random": false,
                   "anim": {
                     "enable": true,
-                    "speed": 1,
+                    "speed": .1,
                     "opacity_min": 0.1,
                     "sync": false
                   }
@@ -715,7 +715,7 @@ class App extends Component {
                     "duration": 0.4
                   },
                   "push": {
-                    "particles_nb": 4
+                    "particles_nb": 1
                   },
                   "remove": {
                     "particles_nb": 2
