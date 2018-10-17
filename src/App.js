@@ -67,14 +67,14 @@ class App extends Component {
           <Row>
             <Col xsHidden smHidden md={1} lg={1} />
             <Col xs={12} sm={12} md={10} lg={10} style={{zIndex: 2}}>
-              <Panel>
+              <Panel style={{opacity: .9}}>
                 <h1>Kyle Romero</h1>
                 <p>Software Development Manager with 10 years experience in IT. Currently living in Houston, TX.</p>
                 <a name="about"> </a>
               </Panel>
-              <Panel>
+              <Panel style={{opacity: .9}}>
                 <div className="App-body">
-                  <Panel collapsible defaultExpanded header="About Me">
+                  <Panel collapsible defaultExpanded header="About Me" >
                     <Table bordered condensed>
                       <thead>
                         <tr className="Table-header">
@@ -609,7 +609,8 @@ class App extends Component {
             <Col xsHidden smHidden md={1} lg={1} />
           </Row>
         </Grid>
-        <Particles
+        <Particles 
+            className="particles"
             style={{
               position: 'fixed',
               top: 0,
@@ -621,7 +622,7 @@ class App extends Component {
             params={{
               "particles": {
                 "number": {
-                  "value": 50,
+                  "value": 25,
                   "density": {
                     "enable": true,
                     "value_area": 800
