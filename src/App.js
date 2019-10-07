@@ -69,10 +69,10 @@ class App extends Component {
                   <MenuItem href="./files/Transcript_Kromero.pdf" target="_blank">Transcript</MenuItem>
                 </NavDropdown>
               </NavDropdown>
-              <NavItem href="#about">About Me</NavItem>
+              {/* <NavItem href="#about">About Me</NavItem>
               <NavItem href="#tech">Technical Skills</NavItem>
               <NavItem href="#work">Work Experience</NavItem>
-              <NavItem href="#education">Education</NavItem>
+              <NavItem href="#education">Education</NavItem> */}
             </Nav>
           </Navbar.Collapse>
         </Navbar>
