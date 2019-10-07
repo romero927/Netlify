@@ -1,11 +1,12 @@
 {
   "basics": {
     "name": "Kyle Romero",
+    "picture": "public\\files\\kromero.jpg",
     "label": "Software Development Manager",
     "email": "kgromero@gmail.com",
     "phone": "(281) 857-9006",
     "website": "https://kgromero.com",
-    "summary": " Hello! My name is Kyle Romero. I am a software development manager, with full-stack senior software development experience, living in Houston, Texas. I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 in software engineering. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.",
+    "summary": "Hello! My name is Kyle Romero. I am a software development manager, with full-stack technical lead experience, living in Houston, Texas. I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.",
     "location": {
       "address": "9800 Pagewood Ln Apt 2102",
       "postalCode": "77042",
@@ -28,19 +29,24 @@
   },
   "work": [
     {
-      "company": "InfraSource, A Quanta Services Company",
+      "company": "InfraSource, A Quanta Services Company (part of MEARS Group)",
       "position": "Operations Technology Manager",
       "website": "http://www.infrasourceus.com",
       "startDate": "2017-10-16",
       "summary": "Construction and Professional Services (Natural Gas, Oil, and Electric Power Industry)",
       "highlights": [
-         "Managing a team of internal and outsourced developers",
-         "Manage DevOps, CICD, and PM processes using Azure DevOps",
-         "Architect and explore new technology solutions"  ,
-         "Develop modern web application using Angular/React, HTML5, and CSS3; hosted on IIS",
-         "Develop RESTful API using ASP.NET MVC WebAPI",
-         "Server administration (Windows Servers)",
-         "Azure Administration"
+        "Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy",
+        "Architect and explore new technology solutions (focused on digital transformation)",
+        "Build out company's internal tools using appropriate technologies",
+        "Manage a team of internal and external developers and project managers",
+        "Coordinate external and internal teams using Agile processes",
+        "Travel as needed to various sites around US to deploy new software solutions and manage IT relationship with other groups",
+        "Interface between technical and non-technical personnel; help to bridge the communication gap",
+        "Provide consultation on software development initiatives across MEARS Group",
+        "Create learning curriculum for new developers and provide training / KT sessions",
+        "Manage DevOps, CICD, and PM processes",
+        "Administration of various systems including: Windows Servers, Azure, Azure DevOps, and Sharepoint Online",
+        "Prototyping / hands-on exploration of new technologies"
       ]
     },
     {
@@ -83,9 +89,9 @@
       ]
     },
     {
-      "company": "HP Inc.",
-      "website": "https://hp.com",
+      "company": "HP",
       "position": "Software Developer (IT Developer / Engineer II)",
+      "website": "https://hp.com",
       "startDate": "2011-12-01",
       "endDate":"2014-12-15",
       "highlights": [
@@ -146,17 +152,16 @@
       "name": "Languages",
       "keywords": [
         "C#",
-        "VB.NET",
-        "ASP.NET",
+        "ASP.NET (WebForms / MVC)",
         "Typescript",
-        "ES5",
-        "ES2015"
+        "ES6",
+        "Python"
       ]
     },
     {
       "name": "Databases",
       "keywords": [
-        "MSSQL"
+        "MS-SQL"
       ]
     },
     {
@@ -167,44 +172,66 @@
       ]
     },
     {
-        "name": "Frameworks",
+        "name": "Frameworks / Libraries",
         "keywords": [
-            ".NET 4.5",
-            ".NET 3.5",
-            ".NET 2.0",
+            ".NET (2.0 to 4.8)",
+            ".NET Core 3.0",
             "ASP.NET MVC WebAPI",
-            "Angular",
+            "Angular 1",
             "React",
-            "React-Router",
+            "Gatsby",
             "Redux",
-            "Redux-Thunk",
             "Webpack",
-            "Babel",
-            "SuperAgent",
-            "SCSS",
+            "SASS",
             "Bootstrap",
-            "JQuery"
+            "JQuery",
+            "Azure Cognitive Services",
+            "Azure Logic App"
         ]
     },
     {
         "name": "Development Tools",
         "keywords": [
-            "GIT (Bitbucket, GitKraken / Bash)", "Azure DevOps", "SVN (TortoiseSVN)", "Visual Studio 2015", 
-            "Visual Studio Code", "SSMS"
-            ,"TeamCity" , "JIRA"," Trello", "Azure DevOps", "Windows 10/8.1/7", "Linux (Ubuntu)",
-             "MacOS Sierra", "IIS", "Node + NPM / YARN + Express + PM2", "NGINX Reverse Proxy",
-             "Docker (Novice)", "Azure", "Digital Ocean", "LucidCharts"
+            "Azure DevOps", 
+            "Github", 
+            "SVN (TortoiseSVN)", 
+
+            "Visual Studio", 
+            "Visual Studio Code", 
+            "SSMS", 
+
+            "Slack (Notifications)",
+
+            "Sharepoint Online",
+            "JIRA",
+            "Trello", 
+
+            "Windows 10", 
+            "Linux (Ubuntu)",
+            "MacOS Sierra", 
+
+            "IIS", 
+            "Kestrel (Novice)",
+            "Node + NPM / YARN + Express + PM2", 
+            "NGINX Reverse Proxy",
+
+            "Docker (Novice)",
+
+            "Azure",
+            "Netlify",
+            "Digital Ocean", 
+
+            "LucidCharts",
+            "Visio",
+
+            "SSRS",
+            "PowerBI"
         ]
     },
     {
       "name": "Former Proficiencies",
       "keywords": [
-        "Java",
-        "C (Microcontroller)",
-        "C++",
-        "Matlab",
-        "Verilog / VHDL",
-        "Perl"
+        "C++"
       ]
     }
   ],

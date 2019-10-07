@@ -6,6 +6,11 @@ import Particles from 'react-particles-js';
 
 class App extends Component {
   render() {
+    let startDate = new Date("July 15, 2007")
+
+    let diff = Math.abs(new Date() - startDate);
+    let yearsExperience = Math.floor(diff / 31536000000);
+
     return (
       <div className="App">
         <Navbar fixedTop bsClass="navbar" collapseOnSelect>
@@ -24,10 +29,18 @@ class App extends Component {
                 <MenuItem href="./files/kgromero.json" target="_blank">JSON</MenuItem>
               </NavDropdown>
               <NavDropdown title="Portfolio" id="basic-nav-dropdown">
+                <NavDropdown title="InfraSource" id="basic-nav-dropdown">
+                  <MenuItem href="./files/IT Landscape.png" target="_blank">IT Landscape</MenuItem>
+                  <MenuItem href="./files/Development Process.png" target="_blank">Development Process</MenuItem>
+                  <MenuItem href="./files/Data Architecture and Flow.png" target="_blank">Data Architecture and Flow</MenuItem>
+                  <MenuItem href="./files/Electron Architecture.png" target="_blank">Electron Architecture</MenuItem>
+                  <MenuItem href="./files/Twitter Sentiment Analysis.png" target="_blank">Twitter Sentiment Analysis</MenuItem>
+                  <MenuItem href="./files/RPi LED Display.gif" target="_blank">RPi LED Display</MenuItem>
+                </NavDropdown>
                 <NavDropdown title="Worldwide Machinery" id="basic-nav-dropdown">
                   <MenuItem href="./files/Workflow.pdf" target="_blank">Team Workflow</MenuItem>
                   <MenuItem href="./files/WWMMobile.png" target="_blank">Mobile Architecture</MenuItem>
-                  {/* <MenuItem href="./files/WWMLandscape.png" target="_blank">App Landscape</MenuItem> */}
+                  <MenuItem href="./files/WWMLandscape.png" target="_blank">App Landscape</MenuItem>
                 </NavDropdown>
                 <NavDropdown title="HP" id="basic-nav-dropdown">
                   <MenuItem href="./files/SIOverview.pdf" target="_blank">Sudden Impact Overview</MenuItem>
@@ -69,7 +82,7 @@ class App extends Component {
             <Col xs={12} sm={12} md={10} lg={10} style={{zIndex: 2}}>
               <Panel style={{opacity: .9}}>
                 <h1>Kyle Romero</h1>
-                <p>Software Development Manager with 12 years experience in IT. Currently living in Houston, TX.</p>
+                <p>Software Development Manager with {yearsExperience} years experience in IT. Currently living in Houston, TX.</p>
                 <a name="about"> </a>
               </Panel>
               <Panel style={{opacity: .9}}>
@@ -84,19 +97,7 @@ class App extends Component {
                         </tr>
                       </thead>
                       <tbody className="FiftyPercent">
-                        <tr>
-                          <td>
-                            <Image src="./files/kgromero.png" responsive thumbnail />
-                          </td>
-                          <td>
-                            Hello! My name is Kyle Romero.
-                            I am a software development manager, with full-stack senior software development experience, living in Houston, Texas.
-                            I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 in software engineering.
-                            Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
-                            I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
-                          </td>
-                        </tr>
-                        <tr>
+                      <tr>
                           <td>
                             <strong>Contact</strong>
                           </td>
@@ -111,15 +112,27 @@ class App extends Component {
                         </tr>
                         <tr>
                           <td>
+                            <Image src="./files/kgromero.jpg" responsive thumbnail />
+                          </td>
+                          <td>
+                            Hello! My name is Kyle Romero.
+                            I am a software development manager, with full-stack technical lead experience, living in Houston, Texas.
+                            I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
+                            Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
                             <strong>Interests</strong>
                           </td>
                           <td>
                             <ul>
                               <li>My wife and I love to travel. We have travelled extensively throughout the U.S., as well as to several other countries.</li>
                               <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
-                                  Some of my favorite have been implemented using a Raspberry Pi, such as a Pi-hole DNS blocker and RTL-SDR.</li>
+                                  Some of my favorite have been implemented using a Raspberry Pi, such as a digital LED Sign, Pi-hole DNS blocker, E-Ink Nametag, and RTL-SDR.</li>
                               <li>I am very passionate about nature, and love hiking / camping / backpacking.</li>
-                              <li>I also love Reading, Music, Movies, and Broadway Musicals (thanks to my wife).</li>
+                              <li>I also love Reading, Music, Movies, and Broadway (thanks to my wife).</li>
                               
                             </ul>
                           </td>
@@ -153,8 +166,7 @@ class App extends Component {
                           </td>
                           <td>
                             C#,
-                            VB.NET,
-                            ASP.NET
+                            ASP.NET (WebForms / MVC)
                           </td>
                         </tr>
                         <tr>
@@ -168,10 +180,18 @@ class App extends Component {
                         </tr>
                         <tr>
                           <td>
+                            <strong>General Purpose</strong>
+                          </td>
+                          <td>
+                            Python
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
                             <strong>Database</strong>
                           </td>
                           <td>
-                            MSSQL
+                            MS-SQL
                           </td>
                         </tr>
                         <tr>
@@ -187,12 +207,15 @@ class App extends Component {
                             <strong>Former Proficiencies</strong>
                           </td>
                           <td>
-                            Java,
-                            C (Microcontroller),
-                            C++,
-                            Matlab,
-                            Verilog / VHDL,
-                            Perl
+                            C++
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>On Radar for Future</strong>
+                          </td>
+                          <td>
+                              Blazor, Rust, Go
                           </td>
                         </tr>
                       </tbody>
@@ -211,7 +234,7 @@ class App extends Component {
                             <strong>Microsoft</strong>
                           </td>
                           <td>
-                            .NET 4.5, .NET 3.5, .NET 2.0
+                            .NET (2.0 to 4.8), .NET Core 3.0
                           </td>
                         </tr>
                         <tr>
@@ -229,15 +252,28 @@ class App extends Component {
                           <td>
                             Angular 1,
                             React,
-                            React-Router,
+                            Gatsby,
                             Redux,
-                            Redux-Thunk,<br />
                             Webpack,
-                            Babel,
-                            SuperAgent,
-                            SCSS,
+                            SASS,
                             Bootstrap,
                             JQuery
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Machine Learning</strong>
+                          </td>
+                          <td>
+                            Sentiment Analysis via Azure Cognitive Services + Logic App
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>On Radar for Future</strong>
+                          </td>
+                          <td>
+                              SvelteJS, Vue, Tensorflow / Keras / Jupyter Notebook, Spark / Hadoop, GraphQL, Redis, Elastic
                           </td>
                         </tr>
                       </tbody>
@@ -256,7 +292,7 @@ class App extends Component {
                             <strong>Source Control</strong>
                           </td>
                           <td>
-                            GIT (Bitbucket, GitKraken / Bash), Azure DevOps, SVN (TortoiseSVN)
+                              Azure DevOps, Github, SVN
                           </td>
                         </tr>
                         <tr>
@@ -264,7 +300,7 @@ class App extends Component {
                             <strong>IDE</strong>
                           </td>
                           <td>
-                            Visual Studio 2017, Visual Studio Code, SSMS
+                             Visual Studio, Visual Studio Code, SSMS
                           </td>
                         </tr>
                         <tr>
@@ -272,7 +308,7 @@ class App extends Component {
                             <strong>CICD</strong>
                           </td>
                           <td>
-                             Azure DevOps, TeamCity
+                             Azure DevOps, TeamCity, Slack (Notifications)
                           </td>
                         </tr>
                         <tr>
@@ -280,7 +316,7 @@ class App extends Component {
                             <strong>PM (Agile Scrum)</strong>
                           </td>
                           <td>
-                             Azure DevOps, JIRA, Trello 
+                             Sharepoint Online, Azure DevOps, JIRA, Trello 
                           </td>
                         </tr>
                         <tr>
@@ -293,10 +329,18 @@ class App extends Component {
                         </tr>
                         <tr>
                           <td>
+                            <strong>Reporting</strong>
+                          </td>
+                          <td>
+                            SSRS, PowerBI
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
                             <strong>OS</strong>
                           </td>
                           <td>
-                            Windows 10/8.1/7, Linux (Ubuntu), MacOS Sierra
+                            Windows 10, Linux (Ubuntu), MacOS Sierra
                           </td>
                         </tr>
                         <tr>
@@ -304,7 +348,7 @@ class App extends Component {
                             <strong>Web Hosting</strong>
                           </td>
                           <td>
-                            IIS, Node + NPM / YARN + Express + PM2, NGINX Reverse Proxy
+                            IIS, Kestrel (Novice), Node + NPM / YARN + Express + PM2, NGINX Reverse Proxy
                           </td>
                         </tr>
                         <tr>
@@ -320,7 +364,23 @@ class App extends Component {
                             <strong>Cloud</strong>
                           </td>
                           <td>
-                            Azure, Digital Ocean 
+                            Azure, Netlify, Digital Ocean 
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>IoT</strong>
+                          </td>
+                          <td>
+                            RPi + Raspbian + Adafruit Accessories 
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>On Radar for Future</strong>
+                          </td>
+                          <td>
+                              Kubernetes, Blockchain (If valid use-case found)
                           </td>
                         </tr>
                       </tbody>
@@ -332,7 +392,7 @@ class App extends Component {
                       <thead>
                         <tr className="Table-header">
                           <th colSpan="2">
-                            <strong><a className="whiteanchor" href="http://infrasourceus.com/">InfraSource, A Quanta Services Company</a></strong>
+                            <strong><a className="whiteanchor" href="http://infrasourceus.com/">InfraSource, A Quanta Services Company (part of MEARS Group)</a></strong>
                           </th>
                         </tr>
                       </thead>
@@ -359,13 +419,18 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              <li>Managing a team of internal and outsourced developers</li>
-                              <li>Architect and explore new technology solutions</li>
-                              <li>Develop modern web application using Angular/React, HTML5, and CSS3; hosted on IIS</li>
-                              <li>Develop RESTful api using ASP.NET MVC WebAPI</li>
-                              <li>Manage DevOps, CICD, and PM processes using VSTS</li>
-                              <li>Server administration (Windows Servers)</li>
-                              <li>Azure Administration</li>
+                              <li>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</li>
+                              <li>Architect and explore new technology solutions (focused on digital transformation)</li>
+                              <li>Build out company's internal tools using appropriate technologies</li>
+                              <li>Manage a team of internal and external developers and project managers</li>
+                              <li>Coordinate external and internal teams using Agile processes</li>
+                              <li>Travel as needed to various sites around US to deploy new software solutions and manage IT relationship with other groups</li>
+                              <li>Interface between technical and non-technical personnel; help to bridge the communication gap</li>
+                              <li>Provide consultation on software development initiatives across MEARS Group</li>
+                              <li>Create learning curriculum for new developers and provide training / KT sessions</li>
+                              <li>Manage DevOps, CICD, and PM processes</li>
+                              <li>Administration of various systems including: Windows Servers, Azure, Azure DevOps, and Sharepoint Online</li>
+                              <li>Prototyping / hands-on exploration of new technologies</li>
                             </ul>
                           </td>
                         </tr>
