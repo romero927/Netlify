@@ -61,6 +61,7 @@ class App extends Component {
                   <MenuItem href="./files/Lab1Project2.pdf" target="_blank">Lab 1 Project 2 DOC</MenuItem>
                   <MenuItem href="./files/Lab2FinalPresentation.pdf" target="_blank">Lab 2 PPT</MenuItem>
                   <MenuItem href="./files/Lab2FinalReport.pdf" target="_blank">Lab 2 DOC</MenuItem>
+                  <MenuItem href="./files/Lab2TrialVideo.webm" target="_blank">Lab 2 Trial Video</MenuItem>
                   <MenuItem href="./files/Lab3FinalPresentation.pdf" target="_blank">Lab 3 PPT</MenuItem>
                   <MenuItem href="./files/Lab3FinalReport.pdf" target="_blank">Lab 3 DOC</MenuItem>
                   <MenuItem href="./files/ProjectLabVFinalReport.pdf" target="_blank">Lab 4/5 DOC</MenuItem>
