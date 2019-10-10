@@ -35,7 +35,7 @@ class App extends Component {
                   <MenuItem href="./files/Data Architecture and Flow.png" target="_blank">Data Architecture and Flow</MenuItem>
                   <MenuItem href="./files/Electron Architecture.png" target="_blank">Electron Architecture</MenuItem>
                   <MenuItem href="./files/Twitter Sentiment Analysis.png" target="_blank">Twitter Sentiment Analysis</MenuItem>
-                  <MenuItem href="./files/RPi LED Display.gif" target="_blank">RPi LED Display</MenuItem>
+                  <MenuItem href="./files/RPi LED Display.webm" target="_blank">RPi LED Display</MenuItem>
                 </NavDropdown>
                 <NavDropdown title="Worldwide Machinery" id="basic-nav-dropdown">
                   <MenuItem href="./files/Workflow.pdf" target="_blank">Team Workflow</MenuItem>
