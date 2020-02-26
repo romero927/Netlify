@@ -83,7 +83,7 @@ class App extends Component {
             <Col xs={12} sm={12} md={10} lg={10} style={{zIndex: 2}}>
               <Panel style={{opacity: .9}}>
                 <h1>Kyle Romero</h1>
-                <p>Software Development Manager with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
+                <p>Senior Software Development Manager with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
                 <a name="about"> </a>
               </Panel>
               <Panel style={{opacity: .9}}>
@@ -117,7 +117,7 @@ class App extends Component {
                           </td>
                           <td>
                             Hello! My name is Kyle Romero.
-                            I am a software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
+                            I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
                             Currently, I am a manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
@@ -399,9 +399,10 @@ class App extends Component {
                       <tbody>
                         <tr>
                           <td>
-                            <strong>Title</strong>
+                            <strong>Titles</strong>
                           </td>
                           <td>
+                            Senior Operations Technology Manager<br/>
                             Operations Technology Manager
                           </td>
                         </tr>
@@ -411,6 +412,9 @@ class App extends Component {
                           </td>
                           <td>
                             10/2017 to Current
+                            (Senior Operations Technology Manager: 2020 to Current<br />
+                            Operations Technology Manager: 2017 to 2020)
+                            
                           </td>
                         </tr>
                         <tr>

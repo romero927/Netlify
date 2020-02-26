@@ -2060,7 +2060,7 @@
 								<w:spacing w:line="240" w:line-rule="auto"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Operations Technology Manager</w:t>
+								<w:t>Senior Operations Technology Manager</w:t>
 							</w:r>
 							
 							<w:r wsp:rsidRPr="00235936">
@@ -2083,6 +2083,23 @@
 							</w:r>
 						</w:p>
 						
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Promoted from Operations Technology Manager after 2.5 years of successful software delivery</w:t>
+							</w:r>
+						</w:p>
 						
 						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
 							<w:pPr>
