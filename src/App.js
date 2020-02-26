@@ -412,8 +412,8 @@ class App extends Component {
                           </td>
                           <td>
                             10/2017 to Current<br/>
-                            (Senior Operations Technology Manager: 2020 to Current<br />
-                            Operations Technology Manager: 2017 to 2020)
+                            (Senior Operations Technology Manager: 2020 to Current)<br />
+                            (Operations Technology Manager: 2017 to 2020)
                             
                           </td>
                         </tr>
