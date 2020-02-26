@@ -6,13 +6,13 @@
     "email": "kgromero@gmail.com",
     "phone": "(281) 857-9006",
     "website": "https://kgromero.com",
-    "summary": "Hello! My name is Kyle Romero. I am a software development manager, with full-stack technical lead experience, living in Houston, Texas. I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.",
+    "summary": "Hello! My name is Kyle Romero. I am a software development manager, with full-stack technical lead experience, living in Jersey City, NJ. I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.",
     "location": {
-      "address": "9800 Pagewood Ln Apt 2102",
-      "postalCode": "77042",
-      "city": "Houston",
+      "address": "1 Harborside Pl Apt 714",
+      "postalCode": "07311",
+      "city": "Jersey City",
       "countryCode": "US",
-      "region": "Texas"
+      "region": "New Jersey"
     },
     "profiles": [
       {
@@ -175,9 +175,9 @@
         "name": "Frameworks / Libraries",
         "keywords": [
             ".NET (2.0 to 4.8)",
-            ".NET Core 3.0",
+            ".NET Core 3.x",
             "ASP.NET MVC WebAPI",
-            "Angular 1",
+            "Angular",
             "React",
             "Gatsby",
             "Redux",

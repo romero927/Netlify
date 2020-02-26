@@ -83,7 +83,7 @@ class App extends Component {
             <Col xs={12} sm={12} md={10} lg={10} style={{zIndex: 2}}>
               <Panel style={{opacity: .9}}>
                 <h1>Kyle Romero</h1>
-                <p>Software Development Manager with {yearsExperience} years experience in IT. Currently living in Houston, TX.</p>
+                <p>Software Development Manager with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
                 <a name="about"> </a>
               </Panel>
               <Panel style={{opacity: .9}}>
@@ -117,9 +117,9 @@ class App extends Component {
                           </td>
                           <td>
                             Hello! My name is Kyle Romero.
-                            I am a software development manager, with full-stack technical lead experience, living in Houston, Texas.
+                            I am a software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Currently, I am a manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
@@ -134,7 +134,6 @@ class App extends Component {
                                   Some of my favorite have been implemented using a Raspberry Pi, such as a digital LED Sign, Pi-hole DNS blocker, E-Ink Nametag, and RTL-SDR.</li>
                               <li>I am very passionate about nature, and love hiking / camping / backpacking.</li>
                               <li>I also love Reading, Music, Movies, and Broadway (thanks to my wife).</li>
-                              
                             </ul>
                           </td>
                         </tr>
@@ -235,7 +234,7 @@ class App extends Component {
                             <strong>Microsoft</strong>
                           </td>
                           <td>
-                            .NET (2.0 to 4.8), .NET Core 3.0
+                            .NET (2.0 to 4.8), .NET Core 3.x
                           </td>
                         </tr>
                         <tr>
@@ -251,7 +250,7 @@ class App extends Component {
                             <strong>Javascript</strong>
                           </td>
                           <td>
-                            Angular 1,
+                            Angular,
                             React,
                             Gatsby,
                             Redux,

@@ -2004,7 +2004,7 @@
 								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Hello! My name is Kyle Romero. I am a software development manager, with full-stack technical lead experience, living in Houston, Texas. I have a Bachelor&#39;s Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.</w:t>
+								<w:t>Hello! My name is Kyle Romero. I am a software development manager, with full-stack technical lead experience, living in Jersey City, NJ. I have a Bachelor&#39;s Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.</w:t>
 							</w:r>
 						</w:p>
 						
@@ -3009,7 +3009,7 @@
 								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>9800 Pagewood Ln Apt 2102</w:t>
+								<w:t>1 Harborside Pl Apt 714</w:t>
 							</w:r>
 						</w:p>
 						
@@ -3020,17 +3020,17 @@
 							</w:pPr>
 							
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Houston, </w:t>
+								<w:t>Jersey City, </w:t>
 							</w:r>
 							
 							
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Texas </w:t>
+								<w:t>New Jersey </w:t>
 							</w:r>
 							
 							
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>77042</w:t>
+								<w:t>07311</w:t>
 							</w:r>
 							
 						</w:p>
@@ -3275,7 +3275,7 @@
 								<w:ind w:left="162"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-                                <w:t>.NET (2.0 to 4.8), .NET Core 3.0, ASP.NET MVC WebAPI, Angular 1, React, Gatsby, Redux, Webpack, SASS, Bootstrap, JQuery, Azure Cognitive Services, Azure Logic App</w:t>
+                                <w:t>.NET (2.0 to 4.8), .NET Core 3.x, ASP.NET MVC WebAPI, Angular, React, Gatsby, Redux, Webpack, SASS, Bootstrap, JQuery, Azure Cognitive Services, Azure Logic App</w:t>
 							</w:r>
 						</w:p>
 						
