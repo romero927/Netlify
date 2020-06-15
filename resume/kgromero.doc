@@ -2097,6 +2097,23 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
+								<w:t>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</w:t>
+							</w:r>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
 								<w:t>Promoted from Operations Technology Manager after 2.5 years of successful software delivery</w:t>
 							</w:r>
 						</w:p>
@@ -2114,7 +2131,7 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</w:t>
+								<w:t>Head of Software Development for InfraSource</w:t>
 							</w:r>
 						</w:p>
 						
@@ -3240,7 +3257,7 @@
 								<w:ind w:left="162"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-                                <w:t>MS-SQL</w:t>
+                                <w:t>MS-SQL, SQLite</w:t>
 							</w:r>
 						</w:p>
 						
@@ -3292,7 +3309,7 @@
 								<w:ind w:left="162"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-                                <w:t>.NET (2.0 to 4.8), .NET Core 3.x, ASP.NET MVC WebAPI, Angular, React, Gatsby, Redux, Webpack, SASS, Bootstrap, JQuery, Azure Cognitive Services, Azure Logic App</w:t>
+                                <w:t>.NET (2.0 to 4.8), .NET Core 3.x, ASP.NET MVC WebAPI, Blazor, Angular, React, Gatsby, Redux, Webpack, SASS, Bootstrap, JQuery, Azure Cognitive Services, Azure AppService, Azure Logic App</w:t>
 							</w:r>
 						</w:p>
 						
@@ -3344,7 +3361,7 @@
 								<w:ind w:left="162"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-                                <w:t>C++</w:t>
+                                <w:t>C++, Perl, VB.NET</w:t>
 							</w:r>
 						</w:p>
 						

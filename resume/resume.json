@@ -35,8 +35,9 @@
       "startDate": "2017-10-16",
       "summary": "Construction and Professional Services (Natural Gas, Oil, and Electric Power Industry)",
       "highlights": [
-        "Promoted from Operations Technology Manager after 2.5 years of successful software delivery",
         "Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy",
+        "Promoted from Operations Technology Manager after 2.5 years of successful software delivery",
+        "Head of Software Development for InfraSource",
         "Architect and explore new technology solutions (focused on digital transformation)",
         "Build out company's internal tools using appropriate technologies",
         "Manage a team of internal and external developers and project managers",
@@ -162,7 +163,8 @@
     {
       "name": "Databases",
       "keywords": [
-        "MS-SQL"
+        "MS-SQL",
+        "SQLite"
       ]
     },
     {
@@ -178,6 +180,7 @@
             ".NET (2.0 to 4.8)",
             ".NET Core 3.x",
             "ASP.NET MVC WebAPI",
+            "Blazor",
             "Angular",
             "React",
             "Gatsby",
@@ -187,6 +190,7 @@
             "Bootstrap",
             "JQuery",
             "Azure Cognitive Services",
+            "Azure AppService",
             "Azure Logic App"
         ]
     },
@@ -232,7 +236,9 @@
     {
       "name": "Former Proficiencies",
       "keywords": [
-        "C++"
+        "C++",
+        "Perl",
+        "VB.NET"
       ]
     }
   ],

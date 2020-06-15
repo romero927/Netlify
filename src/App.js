@@ -119,7 +119,7 @@ class App extends Component {
                             Hello! My name is Kyle Romero.
                             I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Currently, I am a senior manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
@@ -132,8 +132,7 @@ class App extends Component {
                               <li>My wife and I love to travel. We have travelled extensively throughout the U.S., as well as to several other countries.</li>
                               <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
                                   Some of my favorite have been implemented using a Raspberry Pi, such as a digital LED Sign, Pi-hole DNS blocker, E-Ink Nametag, and RTL-SDR.</li>
-                              <li>I am very passionate about nature, and love hiking / camping / backpacking.</li>
-                              <li>I also love Reading, Music, Movies, and Broadway (thanks to my wife).</li>
+                              <li>Other Interests: Reading, Nature, Broadway</li>
                             </ul>
                           </td>
                         </tr>
@@ -150,243 +149,7 @@ class App extends Component {
                     </Table>
                     <a name="tech"> </a>
                   </Panel>
-                  <Panel collapsible defaultExpanded header="Technical Skills">
-                    <Table bordered condensed>
-                      <thead>
-                        <tr className="Table-header">
-                          <th colSpan="2">
-                            Languages
-                            </th>
-                        </tr>
-                      </thead>
-                      <tbody className="FiftyPercent">
-                        <tr className="Table-Body">
-                          <td>
-                            <strong>.NET</strong>
-                          </td>
-                          <td>
-                            C#,
-                            ASP.NET (WebForms / MVC)
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Javascript</strong>
-                          </td>
-                          <td>
-                            Typescript,
-                            ES6
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>General Purpose</strong>
-                          </td>
-                          <td>
-                            Python
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Database</strong>
-                          </td>
-                          <td>
-                            MS-SQL
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Scripting</strong>
-                          </td>
-                          <td>
-                            Bash, Powershell (Novice)
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Former Proficiencies</strong>
-                          </td>
-                          <td>
-                            C++
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>On Radar for Future</strong>
-                          </td>
-                          <td>
-                              Blazor, Rust, Go
-                          </td>
-                        </tr>
-                      </tbody>
-                    </Table>
-                    <Table bordered condensed>
-                      <thead>
-                        <tr className="Table-header">
-                          <th colSpan="2">
-                            <strong>Frameworks / Libraries</strong>
-                          </th>
-                        </tr>
-                      </thead>
-                      <tbody className="FiftyPercent">
-                        <tr>
-                          <td>
-                            <strong>Microsoft</strong>
-                          </td>
-                          <td>
-                            .NET (2.0 to 4.8), .NET Core 3.x
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>API</strong>
-                          </td>
-                          <td>
-                            ASP.NET MVC WebAPI
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Javascript</strong>
-                          </td>
-                          <td>
-                            Angular,
-                            React,
-                            Gatsby,
-                            Redux,
-                            Webpack,
-                            SASS,
-                            Bootstrap,
-                            JQuery
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Machine Learning</strong>
-                          </td>
-                          <td>
-                            Sentiment Analysis via Azure Cognitive Services + Logic App
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>On Radar for Future</strong>
-                          </td>
-                          <td>
-                              SvelteJS, Vue, Tensorflow / Keras / Jupyter Notebook, Spark / Hadoop, GraphQL, Redis, Elastic
-                          </td>
-                        </tr>
-                      </tbody>
-                    </Table>
-                    <Table bordered >
-                      <thead>
-                        <tr className="Table-header">
-                          <th colSpan="2">
-                            <strong>Development Tools</strong>
-                          </th>
-                        </tr>
-                      </thead>
-                      <tbody className="FiftyPercent">
-                        <tr>
-                          <td>
-                            <strong>Source Control</strong>
-                          </td>
-                          <td>
-                              Azure DevOps, Github, SVN
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>IDE</strong>
-                          </td>
-                          <td>
-                             Visual Studio, Visual Studio Code, SSMS
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>CICD</strong>
-                          </td>
-                          <td>
-                             Azure DevOps, TeamCity, Slack (Notifications)
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>PM (Agile Scrum)</strong>
-                          </td>
-                          <td>
-                             Sharepoint Online, Azure DevOps, JIRA, Trello 
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Diagramming</strong>
-                          </td>
-                          <td>
-                            Lucidcharts, Visio
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Reporting</strong>
-                          </td>
-                          <td>
-                            SSRS, PowerBI
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>OS</strong>
-                          </td>
-                          <td>
-                            Windows 10, Linux (Ubuntu), MacOS Sierra
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Web Hosting</strong>
-                          </td>
-                          <td>
-                            IIS, Kestrel (Novice), Node + NPM / YARN + Express + PM2, NGINX Reverse Proxy
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Containerization</strong>
-                          </td>
-                          <td>
-                            Docker (Novice)
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Cloud</strong>
-                          </td>
-                          <td>
-                            Azure, Netlify, Digital Ocean 
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>IoT</strong>
-                          </td>
-                          <td>
-                            RPi + Raspbian + Adafruit Accessories 
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>On Radar for Future</strong>
-                          </td>
-                          <td>
-                              Kubernetes, Blockchain (If valid use-case found)
-                          </td>
-                        </tr>
-                      </tbody>
-                    </Table>
                     <a name="work"> </a>
-                  </Panel>
                   <Panel collapsible defaultExpanded header="Work Experience">
                   <Table bordered condensed>
                       <thead>
@@ -424,6 +187,8 @@ class App extends Component {
                           <td>
                             <ul>
                               <li>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</li>
+                              <li>Promoted from Operations Technology Manager after 2.5 years of successful software delivery</li>
+                              <li>Head of Software Development for InfraSource</li>
                               <li>Architect and explore new technology solutions (focused on digital transformation)</li>
                               <li>Build out company's internal tools using appropriate technologies</li>
                               <li>Manage a team of internal and external developers and project managers</li>
@@ -432,9 +197,29 @@ class App extends Component {
                               <li>Interface between technical and non-technical personnel; help to bridge the communication gap</li>
                               <li>Provide consultation on software development initiatives across MEARS Group</li>
                               <li>Create learning curriculum for new developers and provide training / KT sessions</li>
-                              <li>Manage DevOps, CICD, and PM processes</li>
-                              <li>Administration of various systems including: Windows Servers, Azure, Azure DevOps, and Sharepoint Online</li>
+                              <li>Manage DevOps, Agile, GitFlow, CICD, and PM processes</li>
+                              <li>Administration of various systems including</li>
                               <li>Prototyping / hands-on exploration of new technologies</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Technologies</strong>
+                          </td>
+                          <td>
+                            <ul>
+                              <li><strong>.NET:</strong> C#, ASP.NET MVC, ASP.NET MVC API, Blazor</li>
+                              <li><strong>Javascript:</strong> Angular, React, Electron, Node, NPM, Webpack, Gatsby, Bootstrap</li>
+                              <li><strong>DB:</strong> MS-SQL, SQLite</li>
+                              <li><strong>BI:</strong> PowerBI, SSRS</li> 
+                              <li><strong>Cloud:</strong> Azure, Azure AppService, Netlify</li>
+                              <li><strong>Machine Learning:</strong> Sentiment Analysis via Azure Cognitive Services + Logic App</li>
+                              <li><strong>Development:</strong> Azure DevOps, Github, Visual Studio, VS Code</li>
+                              <li><strong>IoT:</strong> RPi + Raspbian + Adafruit Accessories (Python) </li>
+                              <li><strong>Servers:</strong> Windows</li>
+                              <li><strong>Processes:</strong> DevOps, Agile, GitFlow, CICD</li>
+                              <li><strong>Other:</strong> Sharepoint Online, Twilio, Slack, Trello, Visio, MS Project</li>
                             </ul>
                           </td>
                         </tr>
@@ -473,12 +258,29 @@ class App extends Component {
                             <ul>
                               <li>Manage project workflow using Agile Scrum methodology</li>
                               <li>Manage junior developers' workloads</li>
-                              <li>Develop modern ASP.NET MVC WebAPI</li>
-                              <li>Develop modern Mobile-first Web Application using React, Redux, Typescript (ES6), Node.js + Express + NPM, Babel, Webpack, and SASS</li>
-                              <li>Maintain legacy ERP application using .NET Winforms (C#, MS SQL)</li>
-                              <li>Implement and Maintain Project and DevOps Processes using: JIRA, Bitbucket (GIT), TeamCity, Trello, Slack, Lucidcharts</li>
+                              <li>Develop modern API</li>
+                              <li>Develop modern Mobile-first Web Application</li>
+                              <li>Maintain legacy ERP application</li>
+                              <li>Implement and Maintain Project and DevOps Processes</li>
                               <li>Proactively identify process improvements as well as project opportunities</li>
-                              <li>Maintain / troubleshoot hardware infrastructure as needed (Windows / Ubuntu Servers)</li>
+                              <li>Maintain / troubleshoot hardware infrastructure as needed</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Technologies</strong>
+                          </td>
+                          <td>
+                            <ul>
+                              <li><strong>.NET:</strong> C#, ASP.NET MVC API, WinForms</li>
+                              <li><strong>Javascript:</strong> React, Redux, Typescript (ES6), Node.js + Express + NPM + PM2, Babel, Webpack, SASS, NGINX Reverse Proxy</li>
+                              <li><strong>DB:</strong> MS-SQL</li>
+                              <li><strong>Cloud:</strong> DigitalOcean</li>
+                              <li><strong>Containerization:</strong>Docker</li>
+                              <li><strong>Development:</strong> JIRA, TeamCity, Bitbucket (GIT), Visual Studio, VS Code, Trello, Lucidcharts</li>
+                              <li><strong>Processes:</strong> DevOps, Agile, GitFlow, CICD</li>
+                              <li><strong>Servers:</strong> Windows, Ubuntu</li>
                             </ul>
                           </td>
                         </tr>
@@ -527,16 +329,33 @@ class App extends Component {
                               <li>Managed release process for tool.</li>
                               <li>Worked with business to define requirements and develop architecture for project.</li>
                               <li>Familiar with all aspects of project, from both technical and business standpoints.</li>
-                              <li>While working on .NET Applications, received exposure to Big Data technologies, such as Hadoop and HP Vertica, as well as Dashboarding Technologies, such as Qlikview and Tableau.</li>
+                              <li>While working on .NET Applications, received exposure to Big Data technologies</li>
                               <li>During the year 2015, led team to successfully complete clone of our systems to be used on both sides of HP after the company split into two.</li>
                             </ul>
                             <hr />
                             <i><b>Mid-Level Developer</b></i><br />
                             <ul>
                               <li>Worked on ASP.NET Web applications incorporating a 3-Tier approach.</li>
-                              <li>Did work on all three tiers (MS SQL Database, VB.NET Middle tier object libraries, and ASP.NET + jQueryUI frontend).</li>
+                              <li>Did work on all three tiers</li>
                               <li>Project was managed using Agile Scrum methodology (Received Certified Scrum Master certification 2012).</li>
                               <li>Source control system was Team Foundation Server.</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Technologies</strong>
+                          </td>
+                          <td>
+                            <ul>
+                              <li><strong>.NET:</strong> VB.NET, C#, ASP.NET</li>
+                              <li><strong>Javascript:</strong> jQueryUI, jQuery</li>
+                              <li><strong>DB:</strong> MS-SQL</li>
+                              <li><strong>BI:</strong> Tableau, Qlickview</li>
+                              <li><strong>Big Data:</strong>Hadoop, HP Vertica, </li>
+                              <li><strong>Development:</strong> TFS, Subversion, Visual Studio</li>
+                              <li><strong>Processes:</strong> Agile</li>
+                              <li><strong>Servers:</strong> Windows</li>
                             </ul>
                           </td>
                         </tr>
@@ -553,10 +372,11 @@ class App extends Component {
                       <tbody>
                         <tr>
                           <td>
-                            <strong>Title</strong>
+                            <strong>Titles</strong>
                           </td>
                           <td>
-                            Software / Systems Engineer
+                            Software / Systems Engineer<br/>
+                            IT Intern (Texas Tech Electrical Engineering)
                           </td>
                         </tr>
                         <tr>
@@ -564,7 +384,8 @@ class App extends Component {
                             <strong>Dates</strong>
                           </td>
                           <td>
-                            1/2010 to 12/2011
+                            1/2010 to 12/2011 (Full Time)<br />
+                            5/2007 to 12/2009 (Intern)
                           </td>
                         </tr>
                         <tr>
@@ -573,49 +394,30 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              <li>Development of ASP.NET/C# Web applications to serve as frontends for MSSQL databases.</li>
-                              <li>Developed .NET Web / Console / Winforms Applications.</li>
-                              <li>Involved in Database Design. Administered Windows and Linux servers.</li>
-                              <li>Designed Shell / Batch scripts. Developed C++ console applications.</li>
+                              <li>Development of Web applications to serve as frontends for databases.</li>
+                              <li>Developed Windows Applications.</li>
+                              <li>Involved in Database Design. Administered servers.</li>
+                              <li>Designed Shell / Batch scripts. Developed console applications.</li>
                               <li>Deployed machine monitoring system. Developed Inventory tracking system.</li>
                               <li>Deployed Documentation system to sites globally.</li>
+                              <li>Intern: Developed various internal software projects, including statistical analysis programs, format conversion software, and web applications.</li>
                             </ul>
                           </td>
                         </tr>
-                      </tbody>
-                    </Table>
-                    <Table bordered condensed>
-                      <thead>
-                        <tr className="Table-header">
-                          <th colSpan="2">
-                            <strong><a className="whiteanchor" href="http://www.depts.ttu.edu/ece/">X-Fab Texas, Inc. / TTU EE Department</a></strong>
-                          </th>
-                        </tr>
-                      </thead>
-                      <tbody>
                         <tr>
                           <td>
-                            <strong>Title</strong>
+                            <strong>Technologies</strong>
                           </td>
                           <td>
-                            IT Intern
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Dates</strong>
-                          </td>
-                          <td>
-                            5/2007 to 12/2009
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <strong>Description</strong>
-                          </td>
-                          <td>
-                            Developed various internal software projects, including statistical analysis programs, format conversion software, and .NET web applications.
-                          </td>
+                              <ul>
+                                <li><strong>.NET:</strong> C#, ASP.NET, Console, Winforms</li>
+                                <li><strong>General Purpose:</strong> C++, Perl</li>
+                                <li><strong>DB:</strong> MS-SQL</li>
+                                <li><strong>Development:</strong> Subversion, Visual Studio</li>
+                                <li><strong>Servers:</strong> Windows, Redhat</li>
+                                <li><strong>IoT:</strong> Perle IOLAN</li>
+                              </ul>
+                            </td>
                         </tr>
                       </tbody>
                     </Table>
