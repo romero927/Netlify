@@ -352,7 +352,7 @@ class App extends Component {
                               <li><strong>Javascript:</strong> jQueryUI, jQuery</li>
                               <li><strong>DB:</strong> MS-SQL</li>
                               <li><strong>BI:</strong> Tableau, Qlickview</li>
-                              <li><strong>Big Data:</strong>Hadoop, HP Vertica, </li>
+                              <li><strong>Big Data:</strong> Hadoop, Hive, HP Vertica, </li>
                               <li><strong>Development:</strong> TFS, Subversion, Visual Studio</li>
                               <li><strong>Processes:</strong> Agile</li>
                               <li><strong>Servers:</strong> Windows</li>
