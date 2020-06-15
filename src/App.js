@@ -198,7 +198,7 @@ class App extends Component {
                               <li>Provide consultation on software development initiatives across MEARS Group</li>
                               <li>Create learning curriculum for new developers and provide training / KT sessions</li>
                               <li>Manage DevOps, Agile, GitFlow, CICD, and PM processes</li>
-                              <li>Administration of various systems including</li>
+                              <li>Administration of various systems</li>
                               <li>Prototyping / hands-on exploration of new technologies</li>
                             </ul>
                           </td>
