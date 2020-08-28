@@ -107,6 +107,7 @@ class App extends Component {
                               <li><a href="mailto:kgromero@gmail.com" target="_top">kgromero@gmail.com</a></li>
                               <li><a href="https://www.linkedin.com/in/kyleromero/">LinkedIn</a></li>
                               <li><a href="https://github.com/romero927">Github</a></li>
+                              <li><a href="https://keybase.io/kgromero">Keybase</a></li>
                               <li><a href="tel://+12818579006">(281) 857-9006</a></li>
                             </ul>
                           </td>
