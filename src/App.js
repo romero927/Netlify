@@ -192,6 +192,7 @@ class App extends Component {
                               <li>Head of Software Development for InfraSource</li>
                               <li>Architect and explore new technology solutions (focused on digital transformation)</li>
                               <li>Build out company's internal tools using appropriate technologies</li>
+                              <li>Led team through process of making internal tools SOX-Compliant</li>
                               <li>Manage a team of internal and external developers and project managers</li>
                               <li>Coordinate external and internal teams using Agile processes</li>
                               <li>Travel as needed to various sites around US to deploy new software solutions and manage IT relationship with other groups</li>
