@@ -6,7 +6,7 @@
     "email": "kgromero@gmail.com",
     "phone": "(281) 857-9006",
     "website": "https://kgromero.com",
-    "summary": "Hello! My name is Kyle Romero. I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ. I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.",
+    "summary": "Hello! My name is Kyle Romero. I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ. I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development. Currently, I am a snior manager of operations technology, and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP. I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.",
     "location": {
       "address": "1 Harborside Pl Apt 714",
       "postalCode": "07311",
@@ -30,7 +30,7 @@
   "work": [
     {
       "company": "InfraSource, A Quanta Services Company (part of MEARS Group)",
-      "position": "Senior Operations Technology Manager",
+      "position": "Senior Manager - Operations Technology",
       "website": "http://www.infrasourceus.com",
       "startDate": "2017-10-16",
       "summary": "Construction and Professional Services (Natural Gas, Oil, and Electric Power Industry)",
@@ -48,7 +48,7 @@
         "Create learning curriculum for new developers and provide training / KT sessions",
         "Manage DevOps, CICD, and PM processes",
         "Administration of various systems including: Windows Servers, Azure, Azure DevOps, and Sharepoint Online",
-        "Prototyping / hands-on exploration of new technologies"
+        "Prototyping / hands-on exploration of new technologies",
       ]
     },
     {
@@ -66,7 +66,7 @@
         "Maintain legacy ERP application using .NET Winforms (C#, MS SQL)",
         "Implement and Maintain Project and DevOps Processes using: JIRA, Bitbucket (GIT), TeamCity, Trello, Slack, Lucidcharts",
         "Proactively identify process improvements, as well as project opportunities",
-        "Maintain / troubleshoot hardware infrastructure as needed (Windows / Ubuntu Servers)"                 
+        "Maintain / troubleshoot hardware infrastructure as needed (Windows / Ubuntu Servers)",               
       ]
     },
     {
@@ -86,8 +86,7 @@
         "Worked with business to define requirements and develop architecture for project.",
         "Familiar with all aspects of project, from both technical and business standpoints.",
         "While working on .NET Applications, received exposure to Big Data technologies, such as Hadoop and HP Vertica, as well as Dashboarding Technologies, such as Qlikview and Tableau.",
-        "During the year 2015, led team to successfully complete clone of our systems to be used on both sides of HP after the company split into two."
-                                           
+        "During the year 2015, led team to successfully complete clone of our systems to be used on both sides of HP after the company split into two.",                    
       ]
     },
     {
@@ -100,7 +99,7 @@
        "Worked on ASP.NET Web applications incorporating a 3-Tier approach.",
        "Did work on all three tiers (MS SQL Database, VB.NET Middle tier object libraries, and ASP.NET + jQueryUI frontend).",
        "Project was managed using Agile Scrum methodology (Received Certified Scrum Master certification 2012).",
-       "Source control system was Team Foundation Server."
+       "Source control system was Team Foundation Server.",
       ]
     },
     {
@@ -116,7 +115,7 @@
       "Involved in Database Design. Administered Windows and Linux servers.",
       "Designed Shell / Batch scripts. Developed C++ console applications.",
       "Deployed machine monitoring system. Developed Inventory tracking system.",
-      "Deployed Documentation system to sites globally."
+      "Deployed Documentation system to sites globally.",
      ]
     },
     {
@@ -127,7 +126,7 @@
       "endDate":"2009-12-31",
       "summary": "Internship between TTU EE Department and X-Fab, Texas",
       "highlights": [
-      "Developed various internal software projects, including statistical analysis programs, format conversion software, and .NET web applications."
+      "Developed various internal software projects, including statistical analysis programs, format conversion software, and .NET web applications.",
      ]
     }
   ],
@@ -146,99 +145,6 @@
         "2: Tech-SAL Robotics Programming Language",
         "3: Remote Event Timer",
         "4/5: F.P.G.A. based Waveform Generator."
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "keywords": [
-        "C#",
-        "ASP.NET (WebForms / MVC)",
-        "Typescript",
-        "ES6",
-        "Python"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
-        "MS-SQL",
-        "SQLite"
-      ]
-    },
-    {
-      "name": "Scripting",
-      "keywords": [
-        "Bash",
-        "Powershell (Novice)"
-      ]
-    },
-    {
-        "name": "Frameworks / Libraries",
-        "keywords": [
-            ".NET (2.0 to 4.8)",
-            ".NET Core 3.x",
-            "ASP.NET MVC WebAPI",
-            "Blazor",
-            "Angular",
-            "React",
-            "Gatsby",
-            "Redux",
-            "Webpack",
-            "SASS",
-            "Bootstrap",
-            "JQuery",
-            "Azure Cognitive Services",
-            "Azure AppService",
-            "Azure Logic App"
-        ]
-    },
-    {
-        "name": "Development Tools",
-        "keywords": [
-            "Azure DevOps", 
-            "Github", 
-            "SVN (TortoiseSVN)", 
-
-            "Visual Studio", 
-            "Visual Studio Code", 
-            "SSMS", 
-
-            "Slack (Notifications)",
-
-            "Sharepoint Online",
-            "JIRA",
-            "Trello", 
-
-            "Windows 10", 
-            "Linux (Ubuntu)",
-            "MacOS Sierra", 
-
-            "IIS", 
-            "Kestrel (Novice)",
-            "Node + NPM / YARN + Express + PM2", 
-            "NGINX Reverse Proxy",
-
-            "Docker (Novice)",
-
-            "Azure",
-            "Netlify",
-            "Digital Ocean", 
-
-            "LucidCharts",
-            "Visio",
-
-            "SSRS",
-            "PowerBI"
-        ]
-    },
-    {
-      "name": "Former Proficiencies",
-      "keywords": [
-        "C++",
-        "Perl",
-        "VB.NET"
       ]
     }
   ],

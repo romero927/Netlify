@@ -24,7 +24,6 @@ class App extends Component {
             <Nav pullRight>
               <NavDropdown title="Resume" id="basic-nav-dropdown">
                 <MenuItem href="./files/kgromero.html" target="_blank">HTML</MenuItem>
-                <MenuItem href="./files/kgromero.pdf" target="_blank">PDF</MenuItem>
                 <MenuItem href="./files/kgromero.doc" target="_blank">DOC</MenuItem>
                 <MenuItem href="./files/kgromero.json" target="_blank">JSON</MenuItem>
               </NavDropdown>
@@ -166,7 +165,7 @@ class App extends Component {
                             <strong>Titles</strong>
                           </td>
                           <td>
-                            Senior Operations Technology Manager<br/>
+                            Senior Manager - Operations Technology<br/>
                             Operations Technology Manager
                           </td>
                         </tr>
