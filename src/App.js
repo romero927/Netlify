@@ -193,6 +193,7 @@ class App extends Component {
                               <li>Architect and explore new technology solutions (focused on digital transformation)</li>
                               <li>Build out company's internal tools using appropriate technologies</li>
                               <li>Led team through process of making internal tools SOX-Compliant</li>
+                              <li>Worked to develop high availability infrastructure architecture for apps</li>
                               <li>Manage a team of internal and external developers and project managers</li>
                               <li>Coordinate external and internal teams using Agile processes</li>
                               <li>Travel as needed to various sites around US to deploy new software solutions and manage IT relationship with other groups</li>
@@ -212,6 +213,7 @@ class App extends Component {
                           <td>
                             <ul>
                               <li><strong>.NET:</strong> C#, ASP.NET MVC, ASP.NET MVC API, Blazor</li>
+                              <li><strong>Scripting:</strong> Python</li>
                               <li><strong>Javascript:</strong> Angular, React, Electron, Node, NPM, Webpack, Gatsby, Bootstrap</li>
                               <li><strong>DB:</strong> MS-SQL, SQLite</li>
                               <li><strong>BI:</strong> PowerBI, SSRS</li> 
