@@ -100,7 +100,19 @@ class App extends Component {
                         </tr>
                       </thead>
                       <tbody className="FiftyPercent">
-                      <tr>
+                        <tr>
+                          <td>
+                            <Image src="./files/kgromero.jpg" responsive thumbnail />
+                          </td>
+                          <td>
+                            Hello! My name is Kyle Romero.
+                            I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
+                            I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
+                            Currently, I am a senior manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
+                          </td>
+                        </tr>
+                        <tr>
                           <td>
                             <strong>Contact</strong>
                           </td>
@@ -112,18 +124,6 @@ class App extends Component {
                               <li><a href="https://keybase.io/kgromero">Keybase</a></li>
                               <li><a href="tel://+12818579006">(281) 857-9006</a></li>
                             </ul>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            <Image src="./files/kgromero.jpg" responsive thumbnail />
-                          </td>
-                          <td>
-                            Hello! My name is Kyle Romero.
-                            I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
-                            I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a senior manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
-                            I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
                         <tr>
@@ -180,7 +180,6 @@ class App extends Component {
                             10/2017 to Current<br/>
                             (Senior Operations Technology Manager: 2020 to Current)<br />
                             (Operations Technology Manager: 2017 to 2020)
-                            
                           </td>
                         </tr>
                         <tr>
@@ -190,7 +189,6 @@ class App extends Component {
                           <td>
                             <ul>
                               <li>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</li>
-                              <li>Promoted from Operations Technology Manager after 2.5 years of successful software delivery</li>
                               <li>Head of Software Development for InfraSource</li>
                               <li>Architect and explore new technology solutions (focused on digital transformation)</li>
                               <li>Build out company's internal tools using appropriate technologies</li>
@@ -210,6 +208,18 @@ class App extends Component {
                         </tr>
                         <tr>
                           <td>
+                            <strong>Achievements</strong>
+                          </td>
+                          <td>
+                            <ul>
+                              <li><strong>2020:</strong> Promoted to Senior Manager of Operations Technology after 2.5 years of successful innovation</li>
+                              <li><strong>2021:</strong> Nominated to Quanta Leadership Academy</li>
+                              <li><strong>2021:</strong> Nominated to MEARS Group Disruptor Team (Company Think-Tank)</li>
+                            </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
                             <strong>Technologies</strong>
                           </td>
                           <td>
@@ -219,13 +229,13 @@ class App extends Component {
                               <li><strong>Javascript:</strong> Angular, React, Electron, Node, NPM, Webpack, Gatsby, Bootstrap</li>
                               <li><strong>DB:</strong> MS-SQL, SQLite</li>
                               <li><strong>BI:</strong> PowerBI, SSRS</li> 
-                              <li><strong>Cloud:</strong> Azure, Azure AppService, Netlify</li>
+                              <li><strong>Cloud:</strong> Azure</li>
                               <li><strong>Machine Learning:</strong> Sentiment Analysis via Azure Cognitive Services + Logic App</li>
                               <li><strong>Development:</strong> Azure DevOps, Github, Visual Studio, VS Code</li>
                               <li><strong>IoT:</strong> RPi + Raspbian + Adafruit Accessories (Python) </li>
                               <li><strong>Servers:</strong> Windows</li>
                               <li><strong>Processes:</strong> DevOps, Agile, GitFlow, CICD</li>
-                              <li><strong>Other:</strong> Sharepoint Online, Twilio, Slack, Trello, Visio, MS Project</li>
+                              <li><strong>Other:</strong> Sharepoint Online, Twilio, Slack, Trello, Lucidcharts</li>
                             </ul>
                           </td>
                         </tr>
