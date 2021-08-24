@@ -106,9 +106,9 @@ class App extends Component {
                           </td>
                           <td>
                             Hello! My name is Kyle Romero.
-                            I am a senior software development manager, with full-stack technical lead experience, living in Jersey City, NJ.
+                            I am a director of software development, with 4 years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a senior manager of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Currently, I am a director of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
@@ -122,6 +122,7 @@ class App extends Component {
                               <li><a href="https://www.linkedin.com/in/kyleromero/">LinkedIn</a></li>
                               <li><a href="https://github.com/romero927">Github</a></li>
                               <li><a href="https://keybase.io/kgromero">Keybase</a></li>
+                              <li><a href="https://www.goodreads.com/kgromero">Goodreads</a></li>
                               <li><a href="tel://+12818579006">(281) 857-9006</a></li>
                             </ul>
                           </td>
@@ -135,7 +136,7 @@ class App extends Component {
                               <li>My wife and I love to travel. We have travelled extensively throughout the U.S., as well as to several other countries.</li>
                               <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
                                   Some of my favorite have been implemented using a Raspberry Pi, such as a digital LED Sign, Pi-hole DNS blocker, E-Ink Nametag, and RTL-SDR.</li>
-                              <li>Other Interests: Reading, Nature, Broadway</li>
+                              <li>Other Interests: Reading, Nature, Broadway, Music</li>
                             </ul>
                           </td>
                         </tr>
@@ -168,6 +169,7 @@ class App extends Component {
                             <strong>Titles</strong>
                           </td>
                           <td>
+                            Director - Operations Technology<br/>
                             Senior Manager - Operations Technology<br/>
                             Operations Technology Manager
                           </td>
@@ -178,7 +180,8 @@ class App extends Component {
                           </td>
                           <td>
                             10/2017 to Current<br/>
-                            (Senior Operations Technology Manager: 2020 to Current)<br />
+                            (Director of Operations Technology: 2020 to 2021)<br />
+                            (Senior Operations Technology Manager: 2020 to 2021)<br />
                             (Operations Technology Manager: 2017 to 2020)
                           </td>
                         </tr>
@@ -215,18 +218,19 @@ class App extends Component {
                               <li><strong>2020:</strong> Promoted to Senior Manager of Operations Technology after 2.5 years of successful innovation</li>
                               <li><strong>2021:</strong> Nominated to Quanta Leadership Academy</li>
                               <li><strong>2021:</strong> Nominated to MEARS Group Disruptor Team (Company Think-Tank)</li>
+                              <li><strong>2021:</strong> Promoted to Director of Operations Technology after 1 year as Senior Manager</li>
                             </ul>
                           </td>
                         </tr>
                         <tr>
                           <td>
-                            <strong>Technologies</strong>
+                            <strong>Technologies (Architecture)</strong>
                           </td>
                           <td>
                             <ul>
                               <li><strong>.NET:</strong> C#, ASP.NET MVC, ASP.NET MVC API, Blazor</li>
                               <li><strong>Scripting:</strong> Python</li>
-                              <li><strong>Javascript:</strong> Angular, React, Electron, Node, NPM, Webpack, Gatsby, Bootstrap</li>
+                              <li><strong>Javascript:</strong> Angular, React, Electron, Node, NPM, Webpack, Bootstrap</li>
                               <li><strong>DB:</strong> MS-SQL, SQLite</li>
                               <li><strong>BI:</strong> PowerBI, SSRS</li> 
                               <li><strong>Cloud:</strong> Azure</li>
