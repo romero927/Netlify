@@ -85,7 +85,7 @@ class App extends Component {
             <Col xs={12} sm={12} md={10} lg={10} style={{zIndex: 2}}>
               <Panel style={{opacity: .9}}>
                 <h1>Kyle Romero</h1>
-                <p>Senior Software Development Manager with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
+                <p>Director of Software Development with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
                 <a name="about"> </a>
               </Panel>
               <Panel style={{opacity: .9}}>
@@ -169,9 +169,7 @@ class App extends Component {
                             <strong>Titles</strong>
                           </td>
                           <td>
-                            Director - Operations Technology<br/>
-                            Senior Manager - Operations Technology<br/>
-                            Operations Technology Manager
+                            Director - Operations Technology
                           </td>
                         </tr>
                         <tr>
