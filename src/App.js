@@ -166,7 +166,7 @@ class App extends Component {
                       <tbody>
                         <tr>
                           <td>
-                            <strong>Titles</strong>
+                            <strong>Title</strong>
                           </td>
                           <td>
                             Director - Operations Technology
