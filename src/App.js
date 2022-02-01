@@ -11,6 +11,11 @@ class App extends Component {
     let diff = Math.abs(new Date() - startDate);
     let yearsExperience = Math.floor(diff / 31536000000);
 
+    let startDateMgr = new Date("October 16, 2017")
+
+    let diffMgr = Math.abs(new Date() - startDateMgr);
+    let yearsExperienceMgr = Math.floor(diffMgr / 31536000000);
+
     return (
       <div className="App">
         <Navbar fixedTop bsClass="navbar" collapseOnSelect>
@@ -106,10 +111,10 @@ class App extends Component {
                           </td>
                           <td>
                             Hello! My name is Kyle Romero.
-                            I am a director of software development, with 4 years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
+                            I am a director of software development, with {yearsExperienceMgr} years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
                             Currently, I am a director of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
-                            I have extensive knowledge of all aspects of a successful software project, and have used many different technologies and methodologies over the years.
+                            I have extensive knowledge of all aspects of a successful software development organization, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
                         <tr>
@@ -117,7 +122,7 @@ class App extends Component {
                             <strong>Contact</strong>
                           </td>
                           <td>
-                            <ul>
+                          <ul>
                               <li><a href="mailto:kgromero@gmail.com" target="_top">kgromero@gmail.com</a></li>
                               <li><a href="https://www.linkedin.com/in/kyleromero/">LinkedIn</a></li>
                               <li><a href="https://github.com/romero927">Github</a></li>
@@ -125,6 +130,14 @@ class App extends Component {
                               <li><a href="https://www.goodreads.com/kgromero">Goodreads</a></li>
                               <li><a href="tel://+12818579006">(281) 857-9006</a></li>
                             </ul>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>vCard</strong>
+                          </td>
+                          <td>
+                            <Image src="./files/QR.png" responsive thumbnail width={'40%'}/>
                           </td>
                         </tr>
                         <tr>
@@ -178,7 +191,7 @@ class App extends Component {
                           </td>
                           <td>
                             10/2017 to Current<br/>
-                            (Director of Operations Technology: 2020 to Current)<br />
+                            (Director of Operations Technology: 2021 to Current)<br />
                             (Senior Operations Technology Manager: 2020 to 2021)<br />
                             (Operations Technology Manager: 2017 to 2020)
                           </td>
@@ -191,19 +204,19 @@ class App extends Component {
                             <ul>
                               <li>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</li>
                               <li>Head of Software Development for InfraSource</li>
-                              <li>Architect and explore new technology solutions (focused on digital transformation)</li>
-                              <li>Build out company's internal tools using appropriate technologies</li>
-                              <li>Led team through process of making internal tools SOX-Compliant</li>
-                              <li>Worked to develop high availability infrastructure architecture for apps</li>
-                              <li>Manage a team of internal and external developers and project managers</li>
+                              <li>Manage teams of internal and external developers and project managers</li>
                               <li>Coordinate external and internal teams using Agile processes</li>
                               <li>Travel as needed to various sites around US to deploy new software solutions and manage IT relationship with other groups</li>
                               <li>Interface between technical and non-technical personnel; help to bridge the communication gap</li>
                               <li>Provide consultation on software development initiatives across MEARS Group</li>
+                              <li>Explore and architect new technology solutions (focused on digital transformation)</li>
+                              <li>Led team through process of making internal tools SOX-Compliant</li>
+                              <li>Worked to develop high availability infrastructure architecture for apps</li>
                               <li>Create learning curriculum for new developers and provide training / KT sessions</li>
-                              <li>Manage DevOps, Agile, GitFlow, CICD, and PM processes</li>
-                              <li>Administration of various systems</li>
-                              <li>Prototyping / hands-on exploration of new technologies</li>
+                              <li>Develop and implement strategy to build out company's internal tools using appropriate technologies</li>
+                              <li>Help team manage DevOps, Agile, GitFlow, CICD, and PM processes</li>
+                              <li>Help team administer various systems</li>
+                              <li>Help team with prototyping / hands-on exploration of new technologies</li>
                             </ul>
                           </td>
                         </tr>
@@ -213,10 +226,10 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              <li><strong>2020:</strong> Promoted to Senior Manager of Operations Technology after 2.5 years of successful innovation</li>
-                              <li><strong>2021:</strong> Nominated to Quanta Leadership Academy</li>
-                              <li><strong>2021:</strong> Nominated to MEARS Group Disruptor Team (Company Think-Tank)</li>
                               <li><strong>2021:</strong> Promoted to Director of Operations Technology after 1 year as Senior Manager</li>
+                              <li><strong>2021:</strong> Nominated to MEARS Group Disruptor Team (Company Think-Tank)</li>
+                              <li><strong>2021:</strong> Nominated to Quanta Leadership Academy</li>
+                              <li><strong>2020:</strong> Promoted to Senior Manager of Operations Technology after 2.5 years of successful innovation</li>
                             </ul>
                           </td>
                         </tr>
@@ -235,7 +248,7 @@ class App extends Component {
                               <li><strong>Machine Learning:</strong> Sentiment Analysis via Azure Cognitive Services + Logic App</li>
                               <li><strong>Development:</strong> Azure DevOps, Github, Visual Studio, VS Code</li>
                               <li><strong>IoT:</strong> RPi + Raspbian + Adafruit Accessories (Python) </li>
-                              <li><strong>Servers:</strong> Windows</li>
+                              <li><strong>Servers:</strong> Windows, Ubuntu</li>
                               <li><strong>Processes:</strong> DevOps, Agile, GitFlow, CICD</li>
                               <li><strong>Other:</strong> Sharepoint Online, Twilio, Slack, Trello, Lucidcharts</li>
                             </ul>
