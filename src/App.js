@@ -34,12 +34,12 @@ class App extends Component {
                 <MenuItem href="./files/kgromero.json" target="_blank">JSON</MenuItem>
               </NavDropdown>
               <NavDropdown title="Portfolio" id="basic-nav-dropdown">
-                {/* <NavDropdown title="InfraSource" id="basic-nav-dropdown">
+                <NavDropdown title="InfraSource" id="basic-nav-dropdown">
+                  <MenuItem href="./files/Development Path.pdf" target="_blank">Developer Progression</MenuItem>
                   <MenuItem href="./files/IT Landscape.png" target="_blank">IT Landscape</MenuItem>
                   <MenuItem href="./files/Development Process.png" target="_blank">Development Process</MenuItem>
-                  <MenuItem href="./files/Data Architecture and Flow.png" target="_blank">Data Architecture and Flow</MenuItem>
                   <MenuItem href="./files/Electron Architecture.png" target="_blank">Electron Architecture</MenuItem>
-                </NavDropdown> */}
+                </NavDropdown>
                 <NavDropdown title="Worldwide Machinery" id="basic-nav-dropdown">
                   <MenuItem href="./files/Workflow.pdf" target="_blank">Team Workflow</MenuItem>
                   <MenuItem href="./files/WWMMobile.png" target="_blank">Mobile Architecture</MenuItem>
