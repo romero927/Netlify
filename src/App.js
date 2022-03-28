@@ -29,7 +29,7 @@ class App extends Component {
             <Nav pullRight>
               <NavDropdown title="Resume" id="basic-nav-dropdown">
                 <MenuItem href="./files/kgromero.html" target="_blank">HTML</MenuItem>
-                <MenuItem href="./files/kgromero.doc" target="_blank">DOC</MenuItem>
+                <MenuItem href="./files/kgromero.docx" target="_blank">DOCX</MenuItem>
                 <MenuItem href="./files/kgromero.pdf" target="_blank">PDF</MenuItem>
                 <MenuItem href="./files/kgromero.json" target="_blank">JSON</MenuItem>
               </NavDropdown>
