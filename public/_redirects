@@ -1,2 +1,3 @@
 # Redirects from what the browser requests to what we serve
 /resume              https://kgromero.com/files/kgromero.html
+/svelte              https://brilliant-biscochitos-438f7b.netlify.app/
