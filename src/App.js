@@ -73,6 +73,7 @@ class App extends Component {
                   <MenuItem href="./files/Transcript_Kromero.pdf" target="_blank">Transcript</MenuItem>
                 </NavDropdown>
                 <NavDropdown title="Other" id="basic-nav-dropdown">
+                  <MenuItem href="https://brilliant-biscochitos-438f7b.netlify.app/" target="_blank">Site Rebuild in Svelte</MenuItem>
                   <MenuItem href="./files/Twitter Sentiment Analysis.png" target="_blank">Twitter Sentiment Analysis</MenuItem>
                   <MenuItem href="./files/RPi LED Display.webm" target="_blank">RPi LED Display</MenuItem>
                 </NavDropdown>
