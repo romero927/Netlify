@@ -31,7 +31,6 @@ class App extends Component {
                 <MenuItem href="./files/kromero.pdf" target="_blank">PDF (Concise - Manager Focus)</MenuItem>
                 <MenuItem href="./files/kgromero.pdf" target="_blank">PDF (Concise - Director Focus)</MenuItem>
                 <MenuItem href="./files/kgromero_detailed.pdf" target="_blank">PDF (Detailed - Director Focus)</MenuItem>
-                <MenuItem href="./files/kgromero.docx" target="_blank">DOCX (Concise - Director Focus)</MenuItem>
                 <MenuItem href="./files/kgromero.html" target="_blank">HTML (Detailed)</MenuItem>
                 <MenuItem href="./files/kgromero.json" target="_blank">JSON</MenuItem>
               </NavDropdown>
