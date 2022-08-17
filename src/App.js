@@ -9,12 +9,12 @@ class App extends Component {
     let startDate = new Date("July 15, 2007")
 
     let diff = Math.abs(new Date() - startDate);
-    let yearsExperience = Math.ceil(diff / 31536000000);
+    let yearsExperience = Math.floor(diff / 31536000000);
 
     let startDateMgr = new Date("October 16, 2017")
 
     let diffMgr = Math.abs(new Date() - startDateMgr);
-    let yearsExperienceMgr = Math.floor(diffMgr / 31536000000);
+    let yearsExperienceMgr = Math.round(diffMgr / 31536000000);
 
     return (
       <div className="App">
