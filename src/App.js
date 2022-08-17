@@ -9,7 +9,7 @@ class App extends Component {
     let startDate = new Date("July 15, 2007")
 
     let diff = Math.abs(new Date() - startDate);
-    let yearsExperience = Math.floor(diff / 31536000000);
+    let yearsExperience = Math.ceil(diff / 31536000000);
 
     let startDateMgr = new Date("October 16, 2017")
 
