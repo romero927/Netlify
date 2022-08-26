@@ -105,7 +105,7 @@ class App extends Component {
                       <tbody className="FiftyPercent">
                         <tr>
                           <td>
-                            <Image src="./files/kromero.jpg" responsive thumbnail />
+                            <Image src="./files/kgromero.jpg" responsive thumbnail />
                           </td>
                           <td>
                             Hello! My name is Kyle Romero.
