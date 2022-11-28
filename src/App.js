@@ -111,7 +111,7 @@ class App extends Component {
                             Hello! My name is Kyle Romero.
                             I am a software development manager, with {yearsExperienceMgr} years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a director of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Currently, I am the software development manager of the operations technology organization (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software development organization, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
