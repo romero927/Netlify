@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Grid, Row, Col, Panel, Table, Image, Navbar, Nav, NavDropdown, MenuItem } from 'react-bootstrap'
-import NavItem from './CustomReactBootstrap/NavItem'
+//import NavItem from './CustomReactBootstrap/NavItem'
 import Particles from 'react-particles-js';
 
 class App extends Component {
