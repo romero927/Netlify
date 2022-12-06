@@ -88,7 +88,7 @@ class App extends Component {
             <Col xs={12} sm={12} md={10} lg={10} style={{zIndex: 2}}>
               <Panel style={{opacity: .9}}>
                 <h1>Kyle Romero</h1>
-                <p>Director of Software Development with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
+                <p>Software Development Manager with {yearsExperience} years experience in IT. Currently living in Jersey City, NJ.</p>
                 <a name="about"> </a>
               </Panel>
               <Panel style={{opacity: .9}}>
@@ -109,9 +109,9 @@ class App extends Component {
                           </td>
                           <td>
                             Hello! My name is Kyle Romero.
-                            I am a director of software development, with {yearsExperienceMgr} years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
+                            I am a software development manager, with {yearsExperienceMgr} years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a director of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Currently, I am the software development manager of the operations technology organization (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software development organization, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
@@ -170,7 +170,7 @@ class App extends Component {
                       <thead>
                         <tr className="Table-header">
                           <th colSpan="2">
-                            <strong><a className="whiteanchor" href="http://infrasourceus.com/">InfraSource, A Quanta Services Company (part of MEARS Group)</a></strong>
+                            <strong><a className="whiteanchor" href="http://mears.net/">MEARS, A Quanta Services Company</a></strong>
                           </th>
                         </tr>
                       </thead>
@@ -180,7 +180,7 @@ class App extends Component {
                             <strong>Title</strong>
                           </td>
                           <td>
-                            Director - Operations Technology
+                            Software Development Manager
                           </td>
                         </tr>
                         <tr>
@@ -189,9 +189,6 @@ class App extends Component {
                           </td>
                           <td>
                             10/2017 to Current<br/>
-                            (Director of Operations Technology: 2021 to Current)<br />
-                            (Senior Operations Technology Manager: 2020 to 2021)<br />
-                            (Operations Technology Manager: 2017 to 2020)
                           </td>
                         </tr>
                         <tr>
@@ -200,8 +197,7 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              <li>Direct-Report to CIO of MEARS Group, helping to define and drive software development strategy</li>
-                              <li>Head of Software Development for InfraSource</li>
+                              <li>Direct-Report to VP of IT of MEARS Group, helping to define and drive software development strategy</li>
                               <li>Manage teams of internal and external developers and project managers</li>
                               <li>Coordinate external and internal teams using Agile processes</li>
                               <li>Travel as needed to various sites around US to deploy new software solutions and manage IT relationship with other groups</li>
@@ -215,6 +211,7 @@ class App extends Component {
                               <li>Help team manage DevOps, Agile, GitFlow, CICD, and PM processes</li>
                               <li>Help team administer various systems</li>
                               <li>Help team with prototyping / hands-on exploration of new technologies</li>
+                              <li>Help support existing tech-stack, which consists largely of .NET and Javascript</li>
                             </ul>
                           </td>
                         </tr>
@@ -224,10 +221,8 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              <li><strong>2021:</strong> Promoted to Director of Operations Technology after 1 year as Senior Manager</li>
                               <li><strong>2021:</strong> Nominated to MEARS Group Disruptor Team (Company Think-Tank)</li>
                               <li><strong>2021:</strong> Nominated to Quanta Leadership Academy</li>
-                              <li><strong>2020:</strong> Promoted to Senior Manager of Operations Technology after 2.5 years of successful innovation</li>
                             </ul>
                           </td>
                         </tr>
