@@ -38,13 +38,9 @@ WORK EXPERIENCE
   Primary Tech Stack: .NET, SQL Server, Azure / Windows Server, Javascript (React / Node), Git, PowerBI
   Processes: DevOps / CICD via Azure DevOps, Agile Scrum / Kanban, GitFlow
   Achievements:
-    
       2021: Nominated to MEARS Group Innovator Team (Company Think-Tank)
       2021: Nominated to Quanta Leadership Academy 2 at Quanta's LazyQ Ranch
     
-  
-
-
   * April 2016 – October 2017
     Team Lead / Senior Software Developer at Worldwide Machinery, Houston, TX
       This position was responsible for leading the internal software development team as well as acting as a senior developer. This team delivered mission-critical asset management software used in heavy machinery rental and sales operations utilizing a variety of technologies (.NET, React) and methodologies (DevOps and Agile Scrum).
