@@ -28,7 +28,9 @@ class App extends Component {
           <Navbar.Collapse>
             <Nav pullRight>
               <NavDropdown title="Resume" id="basic-nav-dropdown">
-                <MenuItem href="./files/kromero.pdf" target="_blank">Kyle Romero Resume - PDF</MenuItem>
+                <MenuItem href="./files/kgromero.docx" target="_blank">Kyle Romero Resume - DOCX</MenuItem>
+                <MenuItem href="./files/kgromero.pdf" target="_blank">Kyle Romero Resume - PDF</MenuItem>
+                <MenuItem href="./files/kgromero.txt" target="_blank">Kyle Romero Resume - TXT</MenuItem>
               </NavDropdown>
               <NavDropdown title="Portfolio" id="basic-nav-dropdown">
                 <NavDropdown title="InfraSource" id="basic-nav-dropdown">
