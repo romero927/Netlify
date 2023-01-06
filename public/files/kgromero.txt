@@ -29,10 +29,10 @@ SKILLS
 
 WORK EXPERIENCE
   * October 2017 – Present
-    Director - Software Development at MEARS Group (Quanta Services ), Jersey City, NJ (remote)
+    Director - Software Development at MEARS Group (Quanta Services), Jersey City, NJ (remote)
       Managed the Operations Technology Organization of MEARS Group, which delivers internally developed software solutions for field operations employees, with a special emphasis on digital transformation. Was promoted twice since being hired as Manager.
 
-  Responsibilities: People Management (40%), Architecture (25%), Hands-On Technical (10%) , Strategy (10%), Customer / Executive Interfacing (10%), Budgeting (2.5%), Administration (2.5%)
+  Responsibilities: People Management (40%), Architecture (25%), Hands-On Technical (10%), Strategy (10%), Customer / Executive Interfacing (10%), Budgeting (2.5%), Administration (2.5%)
   Team Size: 4 Developers, 1 PM, 7 Offshore. All team members are remote.
   Largest Application: Mission Critical SOX-compliant internally developed Field Capture solution that is used by over 700 field crews across the U.S. and runs on high-availability infrastructure.
   Primary Tech Stack: .NET, SQL Server, Azure / Windows Server, Javascript (React / Node), Git, PowerBI
