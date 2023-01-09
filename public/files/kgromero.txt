@@ -10,7 +10,7 @@ PERSONAL INFORMATION
   Address: 1 Harborside Pl Apt 752, Jersey City, NJ, 07311
   Nationality: 
   Driving License: 
-  Hobbies: .NET(Core and Classic)(C#, VB.NET, ASP.NET API/MVC, Blazor, WinForms), JavaScript (React, Node.js, Electron, Redux), SQL Server, Sqlite3, Python, PowerBI, Visual Studio/VS Code, Azure DevOps (Git, Scrum/Kanban, DevOps/CICD, GitFlow), GitHub, Windows Server (IIS, NLB), Linux (Ubuntu/Debian), Azure (App Service, SQL, Cognitive Services), Sharepoint Online, PowerApps, PowerAutomate, Raspberry Pi, Twilio, Docker/MicroK8s (Novice)
+  Hobbies: .NET(Core and Classic)(C#, VB.NET, ASP.NET API/MVC, Blazor, WinForms), JavaScript (React, Node.js, Electron, Redux), Web (HTML, CSS), SQL Server, Sqlite3, Python, PowerBI, Visual Studio/VS Code, Azure DevOps (Git, Scrum/Kanban, DevOps/CICD, GitFlow), GitHub, Windows Server (IIS, NLB), Linux (Ubuntu/Debian), Azure (App Service, SQL, Cognitive Services), Sharepoint Online, PowerApps, PowerAutomate, Raspberry Pi, Twilio, Docker/MicroK8s (Novice)
 
 
 SOCIAL PROFILES
