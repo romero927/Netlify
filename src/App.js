@@ -113,7 +113,7 @@ class App extends Component {
                             Hello! My name is Kyle Romero.
                             I am a director of software development, with {yearsExperienceMgr} years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a director of operations technology (software solutions for field work), and previously was a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Currently, I am a director of software development, and previously was a director of operations technology, a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
                             I have extensive knowledge of all aspects of a successful software development organization, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
@@ -172,6 +172,43 @@ class App extends Component {
                       <thead>
                         <tr className="Table-header">
                           <th colSpan="2">
+                            <strong><a className="whiteanchor" href="https://www.raymourflanigan.com//">Raymour & Flanigan</a></strong>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>
+                            <strong>Title</strong>
+                          </td>
+                          <td>
+                            Director - Software Development
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Dates</strong>
+                          </td>
+                          <td>
+                            3/2023 to Current<br/>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Description</strong>
+                          </td>
+                          <td>
+                            <ul>
+                              <li>(WIP))</li>
+                            </ul>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </Table>
+                  <Table bordered condensed>
+                      <thead>
+                        <tr className="Table-header">
+                          <th colSpan="2">
                             <strong><a className="whiteanchor" href="http://infrasourceus.com/">InfraSource, A Quanta Services Company (part of MEARS Group)</a></strong>
                           </th>
                         </tr>
@@ -190,7 +227,7 @@ class App extends Component {
                             <strong>Dates</strong>
                           </td>
                           <td>
-                            10/2017 to Current<br/>
+                            10/2017 to 3/2023<br/>
                             (Director of Operations Technology: 2021 to Current)<br />
                             (Senior Operations Technology Manager: 2020 to 2021)<br />
                             (Operations Technology Manager: 2017 to 2020)
