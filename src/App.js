@@ -140,7 +140,7 @@ class App extends Component {
                             <Image src="./files/QR.png" responsive thumbnail width={'40%'}/>
                           </td>
                         </tr>
-                        <tr>
+                        {/* <tr>
                           <td>
                             <strong>Interests</strong>
                           </td>
@@ -152,7 +152,7 @@ class App extends Component {
                               <li>Other Interests: Reading, Nature, Broadway, Music</li>
                             </ul>
                           </td>
-                        </tr>
+                        </tr> */}
                         <tr>
                           <td>
                             <strong>Technical Note</strong>
@@ -199,7 +199,21 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              <li>(WIP))</li>
+                              Managed the Application Development Organization of Raymour & Flanigan, which
+                                handles all internal software development. This role was heavily focused on
+                                organizational transformation and modernization, both from a software and process
+                                perspective.
+                                <br/><br/>
+                                <li><b>Responsibilities:</b> People Management (60%), Architecture (10%), Hands-On
+                                Technical (5%), Strategy (15%), Customer / Executive Interfacing (5%), Budgeting
+                                (2.5%), Administration (2.5%)</li>
+                                <li><b>Org Size:</b> 3 Managers (.NET Team, Oracle Team, Integrations Team), 4 Architects, 30
+                                Developers.</li>
+                                <li><b>Largest Initiatives:</b> ERP Migration to NetSuite, WMS Migration to Körber,
+                                Omnichannel Sales Experience, 3rd Party Integrations (ChargeAfter, Bringg)</li>
+                                <li><b>Primary Tech Stack:</b> .NET, SQL Server, Oracle DB, Azure, AWS, React, Git, PowerBI,
+                                Windows Server, UWP, Boomi</li>
+                                <li><b>Processes:</b> Matrix Org, DevOps / CICD via Azure DevOps, Agile Scrum / Kanban</li>
                             </ul>
                           </td>
                         </tr>
