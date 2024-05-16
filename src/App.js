@@ -33,6 +33,11 @@ class App extends Component {
                 <MenuItem href="./files/kgromero.txt" target="_blank">Kyle Romero Resume - TXT</MenuItem>
               </NavDropdown>
               <NavDropdown title="Portfolio" id="basic-nav-dropdown">
+                <NavDropdown title="Raymour & Flanigan" id="basic-nav-dropdown">
+                  <MenuItem href="./files/OrgStructure.png" target="_blank">Matrix Organization Structure</MenuItem>
+                  <MenuItem href="./files/SDLC Items Flows.png" target="_blank">SDLC Item Flows</MenuItem>
+                  <MenuItem href="./files/Release Process.png" target="_blank">Release Process</MenuItem>
+                </NavDropdown>
                 <NavDropdown title="InfraSource" id="basic-nav-dropdown">
                   <MenuItem href="./files/Development Path.pdf" target="_blank">Developer Progression</MenuItem>
                   <MenuItem href="./files/IT Landscape.png" target="_blank">IT Landscape</MenuItem>
@@ -113,7 +118,7 @@ class App extends Component {
                             Hello! My name is Kyle Romero.
                             I am a director of software development, with {yearsExperienceMgr} years of management experience and 10 years of full-stack development, technical lead, and architecture experience, living in Jersey City, NJ.
                             I have a Bachelor's Degree in Computer Engineering from Texas Tech University, and have worked in the IT field since 2007 focused on internal software development.
-                            Currently, I am a director of software development, and previously was a director of operations technology, a team lead and senior developer at Worldwide Machinery, and a technical lead at HP.
+                            Previously, I have been a director of software development, a director of operations technology, a team lead and senior developer at Worldwide Machinery, a technical lead at HP, and a software developer at X-Fab, Texas.
                             I have extensive knowledge of all aspects of a successful software development organization, and have used many different technologies and methodologies over the years.
                           </td>
                         </tr>
@@ -149,7 +154,7 @@ class App extends Component {
                               <li>My wife and I love to travel. We have travelled extensively throughout the U.S., as well as to several other countries.</li>
                               <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
                                   Some of my favorite have been implemented using a Raspberry Pi, such as a digital LED Sign, Pi-hole DNS blocker, E-Ink Nametag, and RTL-SDR.</li>
-                              <li>Other Interests: Reading, Nature, Broadway, Music</li>
+                              <li>Other Interests: Reading, Nature, Broadway, </li>
                             </ul>
                           </td>
                         </tr> */}
@@ -190,7 +195,7 @@ class App extends Component {
                             <strong>Dates</strong>
                           </td>
                           <td>
-                            3/2023 to Current<br/>
+                            3/2023 to 5/2024<br/>
                           </td>
                         </tr>
                         <tr>
@@ -199,13 +204,13 @@ class App extends Component {
                           </td>
                           <td>
                             <ul>
-                              Managed the Application Development Organization of Raymour & Flanigan, which
-                                handles all internal software development. This role was heavily focused on
+                              Led  the Application Development Organization of Raymour & Flanigan, which
+                                handled all internal software development. This role was heavily focused on
                                 organizational transformation and modernization, both from a software and process
                                 perspective.
                                 <br/><br/>
-                                <li><b>Responsibilities:</b> People Management (60%), Architecture (10%), Hands-On
-                                Technical (5%), Strategy (15%), Customer / Executive Interfacing (5%), Budgeting
+                                <li><b>Responsibilities:</b> People Management (50%), Strategy (15%), Paretner Relationships (10%),
+                                Architecture (10%), Hands-On Technical (5%), Customer / Executive Interfacing (5%), Budgeting
                                 (2.5%), Administration (2.5%)</li>
                                 <li><b>Org Size:</b> 3 Managers (.NET Team, Oracle Team, Integrations Team), 4 Architects, 30
                                 Developers.</li>

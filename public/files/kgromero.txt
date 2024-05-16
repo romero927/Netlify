@@ -4,7 +4,6 @@ Director of Software Development
 Jersey City, NJ
 (281) 857-9006
 
-Highly experienced Director of Software Development with 16 years of experience in IT. 6 years in a managerial role and 10 years as a software developer. Adept at building and managing a successful software development organization utilizing both onshore and offshore development resources. Skilled at bridging the communication gap between technical and non-technical personnel. Able to jump between hands-on technical work and people management fluidly.
 
 PERSONAL INFORMATION
   Address: 1 Harborside Pl Apt 752, Jersey City, NJ, 07311
@@ -17,37 +16,48 @@ SOCIAL PROFILES
   * linkedin.com/in/kyleromero/: https://www.linkedin.com/in/kyleromero/
   * github.com/romero927: 
 
+LANGUAGES
+
 SKILLS
-  Software Engineering
+  Organizational Leadership
   People Management
   System Architecture
+  Software Engineering
   Digital Transformation
   DevOps
   Agile Methodologies
   Microsoft Tech-Stack
-  React /  Node.js
 
 WORK EXPERIENCE
-  * March 2023 – Present
+  * March 2023 – May 2024
     Director of Software Development at Raymour & Flanigan, Jersey City, NJ (remote)
-      Managed the Application Development Organization of Raymour &amp; Flanigan, which handles all internal software development. This role was heavily focused on organizational transformation and modernization, both from a software and process perspective.
+      Led the Application Development Organization of Raymour &amp; Flanigan, which handled all internal software development company wide. This role was heavily focused on organizational transformation and modernization, both from a software and process perspective. Fully remote position but did travel occasionally (5%).
 
-  Responsibilities: People Management (60%), Architecture (10%), Hands-On Technical (5%), Strategy (15%), Customer / Executive Interfacing (5%), Budgeting (2.5%), Administration (2.5%)
-  Org Size: 3 Managers (.NET Team, Oracle Team, Integrations Team), 4 Architects, 30 Developers.
+  Responsibilities: People Management (50%), Strategy (15%), Partner Relationships (10%), Architecture (10%), Hands-On Technical (5%), Customer / Executive Interfacing (5%), Budgeting / Contract Review (2.5%), Administration (2.5%)
+  Org Size: 3 Managers (.NET Team, Oracle Team, Integrations Team), 4 Architects, 30 Developers. Primarily internal employees, with a few contractors from development partners.
   Largest Initiatives: ERP Migration to NetSuite, WMS Migration to Körber, Omnichannel Sales Experience, 3rd Party Integrations (ChargeAfter, Bringg)
   Primary Tech Stack: .NET, SQL Server, Oracle DB, Azure, AWS, React, Git, PowerBI, Windows Server, UWP, Boomi
   Processes: Matrix Org, DevOps / CICD via Azure DevOps, Agile Scrum / Kanban
 
 
   * October 2017 – March 2023
-    Director - Operations Technologies at MEARS Group (Quanta Services), Jersey City, NJ (remote)
-      Managed the Operations Technology Organization of MEARS Group, which was focused on internally developed software solutions for field operations employees, with a special emphasis on digital transformation. Was promoted twice since being hired as Manager.
+    Director of Operations Technologies at MEARS Group, Jersey City, NJ (remote)
+      Managed the Operations Technology Organization of MEARS Group, which delivered internally developed software solutions for field operations employees, with a special emphasis on digital transformation and field capture. Was hired as Manager of Operations Technology and promoted twice. Traveled as needed (25%).
 
-  Achievements:
+  Responsibilities: People Management (40%), Architecture (25%), Hands-On Technical (20%), Strategy (5%), Customer / Executive Interfacing (5%), Budgeting (2.5%), Administration (2.5%)
+  Team Size: 4 Developers, 1 PM, 7 Offshore. All team members are remote.
+  Largest Application: Mission Critical SOX-compliant internally developed Field Capture solution.
+  Primary Tech Stack: .NET, SQL Server, Azure / Windows Server, Javascript (React / Node), Git, PowerBI
+  Processes: DevOps / CICD via Azure DevOps, Agile Scrum / Kanban, GitFlow
+  Achievements: 
     
+      2021: Promoted to Director of Operations Technology
       2021: Nominated to MEARS Group Innovator Team (Company Think-Tank)
-      2021: Nominated to Quanta Leadership Academy
+      2020: Promoted to Senior Manager of Operations Technology
     
+  
+
+
   * April 2016 – October 2017
     Team Lead / Senior Software Developer at Worldwide Machinery, Houston, TX
       This position was responsible for leading the internal software development team as well as acting as a senior developer. This team delivered mission-critical asset management software used in heavy machinery rental and sales operations.
@@ -64,6 +74,4 @@ WORK EXPERIENCE
 EDUCATION
   * May 2005 – December 2009
     Texas Tech University, Lubbock, TX Bachelor of Science in Computer Engineering
-
-    Computer engineering at Texas Tech covers both Electrical Engineering and Computer Science topics.
 
