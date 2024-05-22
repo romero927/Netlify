@@ -128,24 +128,24 @@ class App extends Component {
                           </td>
                           <td>
                           <ul>
+                              <li><a href="tel://+12818579006">(281) 857-9006</a></li>
                               <li><a href="mailto:kgromero@gmail.com" target="_top">kgromero@gmail.com</a></li>
                               <li><a href="https://www.linkedin.com/in/kyleromero/">LinkedIn</a></li>
                               <li><a href="https://github.com/romero927">Github</a></li>
                               <li><a href="https://keybase.io/kgromero">Keybase</a></li>
                               <li><a href="https://www.goodreads.com/kgromero">Goodreads</a></li>
-                              <li><a href="tel://+12818579006">(281) 857-9006</a></li>
                             </ul>
                           </td>
                         </tr>
                         <tr>
                           <td>
-                            <strong>vCard</strong>
+                            <strong>vCard Contact Info</strong>
                           </td>
                           <td>
                             <Image src="./files/QR.png" responsive thumbnail width={'40%'}/>
                           </td>
                         </tr>
-                        {/* <tr>
+                        <tr>
                           <td>
                             <strong>Interests</strong>
                           </td>
@@ -154,10 +154,10 @@ class App extends Component {
                               <li>My wife and I love to travel. We have travelled extensively throughout the U.S., as well as to several other countries.</li>
                               <li>Being an engineer at heart, I am constantly trying to find new side-projects to do.
                                   Some of my favorite have been implemented using a Raspberry Pi, such as a digital LED Sign, Pi-hole DNS blocker, E-Ink Nametag, and RTL-SDR.</li>
-                              <li>Other Interests: Reading, Nature, Broadway, </li>
+                              <li>Other Interests: SpinClass, PC Gaming, Reading (SFF), Nature, Broadway, Theme Parks</li>
                             </ul>
                           </td>
-                        </tr> */}
+                        </tr>
                         <tr>
                           <td>
                             <strong>Technical Note</strong>
@@ -171,7 +171,7 @@ class App extends Component {
                     </Table>
                     <a name="tech"> </a>
                   </Panel>
-                    <a name="work"> </a>
+                    {/* <a name="work"> </a>
                   <Panel collapsible defaultExpanded header="Work Experience">
                   <Table bordered condensed>
                       <thead>
@@ -560,7 +560,7 @@ class App extends Component {
                         </tr>
                       </tbody>
                     </Table>
-                  </Panel>
+                  </Panel> */}
                 </div>
               </Panel>
             </Col>
